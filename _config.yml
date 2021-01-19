@@ -70,6 +70,7 @@ naver_site_verification  :
 
 # Internationalization
 languages: ["de", "en"]
+default_locale_in_subfolder: true # 'de' also has its own subfolder
 
   # Social Sharing
 twitter:
