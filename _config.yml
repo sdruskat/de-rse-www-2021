@@ -68,7 +68,10 @@ bing_site_verification   :
 yandex_site_verification :
 naver_site_verification  :
 
-# Social Sharing
+# Internationalization
+languages: ["de", "en"]
+
+  # Social Sharing
 twitter:
   username               :
 facebook:
