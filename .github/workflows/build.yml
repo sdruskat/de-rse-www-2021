@@ -32,7 +32,7 @@ jobs:
         run: |
           sudo touch _site/index.html
           ls -lisah _site/
-          echo '<meta http-equiv="refresh" content="0; URL=/de/">' | sudo tee _site/index.html
+          echo '<meta http-equiv="refresh" content="0; URL=./de/">' | sudo tee _site/index.html
           sudo cat _site/index.html
 
       # Deploy to GitHub Pages branch
