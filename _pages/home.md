@@ -1,10 +1,8 @@
 ---
 layout: single
 author_profile: false
-title: titles.home
+title: "_pages/home.md perma /home/"
 permalink: /home/
 ---
 
-# _pages/home.md
-
-{% translate_file home/home.md %}
+_pages/home.md - perma /home/
