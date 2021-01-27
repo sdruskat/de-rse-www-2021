@@ -23,6 +23,8 @@ jobs:
       # Replace generated index.html with forward
       - name: Replace index
         run: |
+          pwd
+          ls -lisah _site
           echo '<meta http-equiv="refresh" content="0; URL=/de/">' > _site/index.html
 
       # Deploy to GitHub Pages branch
