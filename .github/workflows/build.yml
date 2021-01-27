@@ -16,14 +16,23 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v2
 
+      - name: Bundler Cache
+        uses: actions/cache@v1
+        with:
+          path: vendor/bundle
+          key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}
+          restore-keys: |
+            ${{ runner.os }}-gems-
+
       # Builds the Jekyll site
       - name: Build
         uses: jerryjvl/jekyll-build-action@v1
 
       # Replace generated index.html with forward
       - name: Replace index
-        run: sudo touch _site/index.html
-      # echo '<meta http-equiv="refresh" content="0; URL=/de/">' > _site/index.html
+        run: |
+          sudo touch _site/index.html
+          sudo echo '<meta http-equiv="refresh" content="0; URL=/de/">' > _site/index.html
 
       # Deploy to GitHub Pages branch
       - name: Deploy
