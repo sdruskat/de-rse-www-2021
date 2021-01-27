@@ -22,10 +22,11 @@ jobs:
 
       # Replace generated index.html with forward
       - name: Replace index.html
-        uses: finnp/create-file-action@master
-          env:
-            FILE_NAME: "_site/index.html"
-            FILE_DATA: "<meta http-equiv="refresh" content="0; URL=/de/">"
+        - uses: 1arp/create-a-file-action@0.2
+          with:
+            path: '_site'
+            file: 'index.html'
+            content: '<meta http-equiv="refresh" content="0; URL=/de/">'
 
       # Deploy to GitHub Pages branch
       - name: Deploy
