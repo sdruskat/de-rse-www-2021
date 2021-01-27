@@ -19,10 +19,9 @@ jobs:
       - name: Bundler Cache
         uses: actions/cache@v2
         with:
-          path: vendor/bundle
-          key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}
-          restore-keys: |
-            ${{ runner.os }}-gems-
+          path: |
+            vendor/bundle
+          key: ${{ runner.os }}-${{ hashFiles('**/Gemfile.lock') }}
 
       # Builds the Jekyll site
       - name: Build
