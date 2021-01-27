@@ -2,9 +2,9 @@
 layout: single
 author_profile: false
 title: titles.home
-permalink: /home/
+permalink: /
 ---
 
-# _pages/home.md
+# _pages/index.md
 
 {% translate_file home/home.md %}
