@@ -1,0 +1,42 @@
+name: Build-Website
+# Run this workflow every time a new commit pushed to your repository
+on: push
+
+jobs:
+  # Set the job key. The key is displayed as the job name
+  # when a job name is not provided
+  build-website:
+    # Name the Job
+    name: Build and deploy the website
+    # Set the type of machine to run on
+    runs-on: ubuntu-latest
+
+    steps:
+      # Checks out a copy of your repository on the ubuntu-latest machine
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      # Builds the Jekyll site
+      - name: Build
+        uses: jerryjvl/jekyll-build-action@v1
+
+      # Replace generated index.html with forward
+      - name: Replace index.html
+        run: echo '<meta http-equiv="refresh" content="0; URL=/de/">' > _site/index.html
+
+      # Deploy to GitHub Pages branch
+      - name: Deploy
+        run: |
+          cd _site
+          remote_repo="https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
+          remote_branch="gh-pages"
+          git init
+          git config user.name "${GITHUB_ACTOR}"
+          git config user.email "${GITHUB_ACTOR}@users.noreply.github.com"
+          git add .
+          echo -n 'Files to Commit:' && ls -l | wc -l
+          git commit -m 'Deploy' > /dev/null 2>&1
+          git push --force $remote_repo master:$remote_branch > /dev/null 2>&1
+          rm -rf .git
+          cd ../
+          echo '👍 GREAT SUCCESS!'
