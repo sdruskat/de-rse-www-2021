@@ -22,7 +22,7 @@ jobs:
 
       # Replace generated index.html with forward
       - name: Replace index
-        run: touch _site/index.html
+        run: sudo touch _site/index.html
       # echo '<meta http-equiv="refresh" content="0; URL=/de/">' > _site/index.html
 
       # Deploy to GitHub Pages branch
