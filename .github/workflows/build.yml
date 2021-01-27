@@ -21,12 +21,12 @@ jobs:
         uses: jerryjvl/jekyll-build-action@v1
 
       # Replace generated index.html with forward
-      - name: "Replace index.html"
+      - name: Replace index
         uses: 1arp/create-a-file-action@0.2
-          with:
-            path: '_site'
-            file: 'index.html'
-            content: '<meta http-equiv="refresh" content="0; URL=/de/">'
+        with:
+          path: '_site'
+          file: 'index.html'
+          content: '<meta http-equiv="refresh" content="0; URL=/de/">'
 
       # Deploy to GitHub Pages branch
       - name: Deploy
