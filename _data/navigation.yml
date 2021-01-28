@@ -1,4 +1,4 @@
-# main links
+# Main navigation links
 languages:
   - language: "de"
     links: 
@@ -6,17 +6,23 @@ languages:
       url: # Needs to be empty so that the base URL for the language is used
     - title: "Verein"
       url: /verein/
+      description: "Informationen über de-RSE e.V."
   - language: "en"
     links: 
     - title: "Home"
       url: # Needs to be empty so that the base URL for the language is used
     - title: "Association"
       url: /assoc/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+
+# Sidebar navigation links
+home:
+  - language: "de"
+    title: "Heimseite"
+    children:
+      - title: "Über uns"
+        url: "/home/about/"
+  - language: "en"
+    title: "Homepage"
+    children:
+      - title: "About us"
+        url: "/home/about/"
