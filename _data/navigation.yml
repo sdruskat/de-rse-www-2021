@@ -1,7 +1,17 @@
 # main links
-main:
-  - title: "Home"
-    url: "/"
+languages:
+  - language: "de"
+    links: 
+    - title: "Hause"
+      url: # Needs to be empty so that the base URL for the language is used
+    - title: "Verein"
+      url: /verein/
+  - language: "en"
+    links: 
+    - title: "Home"
+      url: # Needs to be empty so that the base URL for the language is used
+    - title: "Association"
+      url: /assoc/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
