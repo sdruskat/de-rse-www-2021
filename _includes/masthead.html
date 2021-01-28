@@ -14,20 +14,18 @@
           {% if site.subtitle %}<span class="site-subtitle">{{ site.subtitle }}</span>{% endif %}
         </a>
         <ul class="visible-links">
-          <!-- {%- for link in site.data.navigation.main -%}
-            <li class="masthead__menu-item">
-              <a href="{{ link.url | relative_url }}"{% if link.description %} title="{{ link.description }}"{% endif %}>{{ link.title }}</a>
-            </li>
-          {%- endfor -%} -->
+          <!-- Iterate languages -->
           {% for item in site.data.navigation.languages %}
+            <!-- If language in nav item is current language -->
             {% if item.language == site.lang %}
+              <!-- Assign url -->
               {% for link in item.links %}
                 {% if link.url contains "http" %}
                   {% assign url = link.url %}
                 {% else %}
                   {% assign url = link.url | relative_url %}
                 {% endif %}
-
+                <!-- Render link -->
                 <li class="masthead__menu-item">
                   <a href="{{ url | prepend: site.baseurl_root }}"{% if link.description %} title="{{ link.description }}"{% endif %}>{{ link.title }}</a>
                 </li>
