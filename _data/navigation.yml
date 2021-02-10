@@ -2,24 +2,39 @@
 languages:
   - language: "de"
     links: 
-    - title: "Startseite"
-      url: / # Needs to be empty so that the base URL for the language is used
-    - title: "Gesellschaft"
-      url: /society/
-      description: "Informationen über de-RSE e.V."
-    - title: "Blog"
-      url: /blog/
-      description: "Deutschsprachige Blogposts"
+    - title: "Über uns"
+      url: /about/
+      description: "Informationen über de-RSE"
+    - title: "Community"
+      url: /community/
+      description: "Die de-RSE Community"
+    - title: "Ressourcen"
+      url: /resources/
+      description: "RSE-relevante Ressourcen"
+    - title: "Mitmachen!"
+      url: /get-involved/
+      description: "Bei (de-) RSE mitmachen!"
+    - title: "Veranstaltungen"
+      url: /events/
+      description: "RSE-relevante Veranstaltungen"
 
   - language: "en"
     links: 
-    - title: "Home"
-      url: / # Needs to be empty so that the base URL for the language is used
-    - title: "Society"
-      url: /society/
-    - title: "Blog"
-      url: /blog/
-      description: "Blog posts in English"
+    - title: "About us"
+      url: /about/
+      description: "Information about de-RSE"
+    - title: "Community"
+      url: /community/
+      description: "The de-RSE community"
+    - title: "Resources"
+      url: /resources/
+      description: "RSE-relevant resources"
+    - title: "Get involved!"
+      url: /get-involved/
+      description: "Get involved in (de-) RSE!"
+    - title: "Events"
+      url: /events/
+      description: "RSE-relevant events"
 
 # Sidebar navigation links
 home:

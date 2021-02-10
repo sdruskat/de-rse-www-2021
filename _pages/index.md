@@ -3,8 +3,6 @@ layout: single
 author_profile: false
 namespace: index
 permalink: /
-sidebar:
-  nav: "home"
 ---
 
 {% translate_file index.md %}
