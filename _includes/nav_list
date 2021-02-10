@@ -10,7 +10,12 @@
         {% capture rel_link %}{{ site.baseurl_root }}/{{ site.lang }}{% endcapture %}
         <li>
           {% if nav.url %}
-            <a href="{{ nav.url | prepend: rel_link }}"><span class="nav__sub-title">{{ nav.title }}</span></a>
+            {% if nav.url contains "http" %}
+              {% assign url = nav.url %}
+            {% else %}
+              {% assign url = nav.url | prepend: rel_link %}
+            {% endif %}
+            <a href="{{ url }}"><span class="nav__sub-title">X{{ nav.title }}</span></a>
           {% else %}
             <span class="nav__sub-title">{{ nav.title }}</span>
           {% endif %}
@@ -18,7 +23,12 @@
           {% if nav.children != null %}
           <ul>
             {% for child in nav.children %}
-              <li><a href="{{ child.url | prepend: rel_link }}"{% if child.url == page.url %} class="active"{% endif %}>{{ child.title }}</a></li>
+              {% if child.url contains "http" %}
+                {% assign url = child.url %}
+              {% else %}
+                {% assign url = child.url | prepend: rel_link %}
+              {% endif %}
+              <li><a href="{{ url }}"{% if child.url == page.url %} class="active"{% endif %}>{{ child.title }}</a></li>
             {% endfor %}
           </ul>
           {% endif %}
