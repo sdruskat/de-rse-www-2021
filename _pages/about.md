@@ -1,10 +1,10 @@
 ---
 layout: single
 author_profile: false
-namespace: index
-permalink: /
+namespace: about
+permalink: /about/
 sidebar:
   nav: "home"
 ---
 
-{% translate_file index.md %}
+{% translate_file about.md %}

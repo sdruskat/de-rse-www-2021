@@ -1,5 +1,6 @@
 global:
-  german: Deutsch
+  german: German
   english: Englisch
-titles:
-  home: "Zu Hause"
+  de: DE
+  en: EN
+  this_page_in: "Diese Seite in DWE"

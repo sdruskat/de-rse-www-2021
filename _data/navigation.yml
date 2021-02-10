@@ -3,16 +3,16 @@ languages:
   - language: "de"
     links: 
     - title: "Hause"
-      url: # Needs to be empty so that the base URL for the language is used
+      url: / # Needs to be empty so that the base URL for the language is used
     - title: "Verein"
-      url: /verein/
+      url: /society/
       description: "Informationen über de-RSE e.V."
   - language: "en"
     links: 
     - title: "Home"
-      url: # Needs to be empty so that the base URL for the language is used
+      url: / # Needs to be empty so that the base URL for the language is used
     - title: "Association"
-      url: /assoc/
+      url: /society/
 
 # Sidebar navigation links
 home:
@@ -20,9 +20,9 @@ home:
     title: "Heimseite"
     children:
       - title: "Über uns"
-        url: "/home/about/"
+        url: "/about/"
   - language: "en"
     title: "Homepage"
     children:
       - title: "About us"
-        url: "/home/about/"
+        url: "/about/"

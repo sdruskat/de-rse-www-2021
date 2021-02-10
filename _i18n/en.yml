@@ -1,5 +1,5 @@
-global:
   german: German
   english: English
-titles:
-  home: "Haem byais!"
+  de: DE
+  en: EN
+  this_page_in: "This page in ENG"

@@ -1,15 +1,22 @@
 {% capture logo_path %}{{ site.logo }}{% endcapture %}
 
 {% capture lang_base_url %}{{ site.baseurl_root }}/{{ site.lang }}{% endcapture %}
+{% if site.lang == "en" %}
+  {% capture other_lang_base_url %}{{ site.baseurl_root }}/de{% endcapture %}
+  {% capture other_lang %}{% t global.de %}{% endcapture %}
+{% elsif site.lang == "de" %}
+  {% capture other_lang_base_url %}{{ site.baseurl_root }}/en{% endcapture %}
+  {% capture other_lang %}{% t global.en %}{% endcapture %}
+{% endif %}
 
 <div class="masthead">
   <div class="masthead__inner-wrap">
     <div class="masthead__menu">
       <nav id="site-nav" class="greedy-nav">
         {% unless logo_path == empty %}
-        <a class="site-logo" href="{{ prepend: site.baseurl_root }}"><img src="{{ logo_path | relative_url }}" alt=""></a>
+        <a class="site-logo" href="{{ site.baseurl | append: '/' }}"><img src="{{ logo_path | relative_url }}" alt=""></a>
         {% endunless %}
-        <a class="site-title" href="{{ prepend: site.baseurl_root }}">
+        <a class="site-title" href="{{ site.baseurl | append: '/' }}">
           {{ site.masthead_title | default: site.title }}
           {% if site.subtitle %}<span class="site-subtitle">{{ site.subtitle }}</span>{% endif %}
         </a>
@@ -23,11 +30,11 @@
                 {% if link.url contains "http" %}
                   {% assign url = link.url %}
                 {% else %}
-                  {% assign url = link.url | relative_url %}
+                  {% assign url = link.url | prepend: lang_base_url %}
                 {% endif %}
                 <!-- Render link -->
                 <li class="masthead__menu-item">
-                  <a href="{{ url | prepend: site.baseurl_root }}"{% if link.description %} title="{{ link.description }}"{% endif %}>{{ link.title }}</a>
+                  <a href="{{ url }}"{% if link.description %} title="{{ link.description }}"{% endif %}>{{ link.title }}</a>
                 </li>
               {% endfor %}
             {% endif %}
@@ -44,6 +51,9 @@
           </svg>
         </button>
         {% endif %}
+        <button type="button">
+          <a href="{{ other_lang_base_url }}">{{ other_lang }}</a>
+        </button>
         <button class="greedy-nav__toggle hidden" type="button">
           <span class="visually-hidden">{{ site.data.ui-text[site.locale].menu_label | default: "Toggle menu" }}</span>
           <div class="navicon"></div>
