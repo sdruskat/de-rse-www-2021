@@ -27,14 +27,21 @@
     {% endfor %}
   </ul>
   <hr>
-  {% if page.layout == "single" %}
+  {% if page.layout == "single" or page.layout == "posts" %}
+    {% if page.layout == "single" %}
+      {% assign prefixde = "Diese Seite" %}
+      {% assign prefixen = "This page" %}
+    {% elsif page.layout == "posts" %}
+      {% assign prefixde = "Blog" %}
+      {% assign prefixen = "Blog" %}
+    {% endif %}
     <ul class="nav__items">
     {% if site.lang == "en" %}
       {% capture linkde %}{{ site.baseurl_root }}/de{% endcapture %}
-      <li><a href="{{ page.url | prepend: linkde }}" style="font-size: .75em;"><i class="fa fa-language"></i> Diese Seite auf Deutsch</b></a></li>
+      <li><a href="{{ page.url | prepend: linkde }}" style="font-size: .75em;"><i class="fa fa-language"></i> {{ prefixde }} auf Deutsch</b></a></li>
     {% elsif site.lang == "de" %}
       {% capture linken %}{{ site.baseurl_root }}/en{% endcapture %}
-      <li><a href="{{ page.url | prepend: linken }}" style="font-size: .75em;"><i class="fa fa-language"></i> This page in English</a></li>
+      <li><a href="{{ page.url | prepend: linken }}" style="font-size: .75em;"><i class="fa fa-language"></i> {{ prefixen }} in English</a></li>
     {% endif %}
     </ul>
   {% endif %}

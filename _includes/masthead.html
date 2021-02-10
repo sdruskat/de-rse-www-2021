@@ -51,9 +51,7 @@
           </svg>
         </button>
         {% endif %}
-        <button type="button">
-          <a href="{{ other_lang_base_url }}">{{ other_lang }}</a>
-        </button>
+          <a href="{{ other_lang_base_url }}"><i class="fa fa-language"></i> {{ other_lang }}</a>
         <button class="greedy-nav__toggle hidden" type="button">
           <span class="visually-hidden">{{ site.data.ui-text[site.locale].menu_label | default: "Toggle menu" }}</span>
           <div class="navicon"></div>

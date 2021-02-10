@@ -2,17 +2,24 @@
 languages:
   - language: "de"
     links: 
-    - title: "Hause"
+    - title: "Startseite"
       url: / # Needs to be empty so that the base URL for the language is used
-    - title: "Verein"
+    - title: "Gesellschaft"
       url: /society/
       description: "Informationen über de-RSE e.V."
+    - title: "Blog"
+      url: /blog/
+      description: "Deutschsprachige Blogposts"
+
   - language: "en"
     links: 
     - title: "Home"
       url: / # Needs to be empty so that the base URL for the language is used
-    - title: "Association"
+    - title: "Society"
       url: /society/
+    - title: "Blog"
+      url: /blog/
+      description: "Blog posts in English"
 
 # Sidebar navigation links
 home:
@@ -26,3 +33,15 @@ home:
     children:
       - title: "About us"
         url: "/about/"
+
+# blog:
+#   - language: "de"
+#     # title: "Heimseite"
+#     children:
+#       - title: "Blog in English"
+#         url: "/blog/"
+#   - language: "en"
+#     # title: "Homepage"
+#     children:
+#       - title: "Blog auf Deutsch"
+#         url: "/blog/"
