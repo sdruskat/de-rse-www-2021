@@ -4,27 +4,50 @@ layout: archive
 
 {{ content }}
 
+<h2>Filter by language</h2> <!-- TODO Translate -->
 <ul class="taxonomy__index">
-  {% assign postsInYear = site.posts | where_exp: "item", "item.hidden != true" | group_by_exp: 'post', 'post.date | date: "%Y"' %}
-  {% for year in postsInYear %}
+  {% assign postsInLanguage = site.posts | where_exp: "item", "item.hidden != true" | group_by_exp: 'post', 'post.language' %}
+  {% for language in postsInLanguage %}
     <li>
-      <a href="#{{ year.name }}">
-        <strong>{{ year.name }}</strong> <span class="taxonomy__count">{{ year.items | size }}</span>
+      <a href="#{{ language.name }}">
+        <strong>{{ language.name }}</strong> <span class="taxonomy__count">{{ language.items | size }}</span>
       </a>
     </li>
   {% endfor %}
 </ul>
 
+
+<!-- Get all posts sorted by language -->
 {% assign entries_layout = page.entries_layout | default: 'list' %}
-{% assign postsByYear = site.posts | where_exp: "item", "item.hidden != true" | group_by_exp: 'post', 'post.date | date: "%Y"' %}
-{% for year in postsByYear %}
-  <section id="{{ year.name }}" class="taxonomy__section">
-    <h2 class="archive__subtitle">{{ year.name }}</h2>
+{% assign postsByLanguage = site.posts | where_exp: "item", "item.hidden != true" | group_by_exp: 'post', 'post.language' %}
+{% for language in postsByLanguage %}
+
+<!-- Language-specific section -->
+<section id="{{ language.name }}" class="taxonomy__section">
+  <h2 class="archive__subtitle">{{ language.name }}</h2>
+    <!-- Include year taxonomy for single language here -->
+    <h2>{{ language.name }} posts by year</h2>
+    <ul class="taxonomy__index">
+      {% assign postsInYear = language.items | where_exp: "item", "item.hidden != true" | group_by_exp: 'post', 'post.date | date: "%Y"' %}
+      {% for year in postsInYear %}
+        <li>
+          <a href="#{{ language.name }}{{ year.name }}">
+            <strong>{{ year.name }}</strong> <span class="taxonomy__count">{{ year.items | size }}</span>
+          </a>
+        </li>
+      {% endfor %}
+    </ul>
+    <!-- Get all language-specific posts sorted by year -->
     <div class="entries-{{ entries_layout }}">
-      {% for post in year.items %}
-        {% include archive-single.html type=entries_layout %}
+      {% assign postsByYear = language.items | group_by_exp: 'post', 'post.date | date: "%Y"' %}
+      {% for langYear in postsByYear %}
+        <!-- Year-specific "section" -->
+        <h3 id="{{ language.name }}{{ langYear.name }}">{{langYear.name}}</h3>
+        {% for post in langYear.items %}
+          {% include archive-single.html type=entries_layout %}
+        {% endfor %}
+        <a href="#page-title" class="back-to-top">{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
       {% endfor %}
     </div>
-    <a href="#page-title" class="back-to-top">{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
   </section>
 {% endfor %}
