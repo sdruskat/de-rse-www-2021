@@ -15,7 +15,7 @@
             {% else %}
               {% assign url = nav.url | prepend: rel_link %}
             {% endif %}
-            <a href="{{ url }}"><span class="nav__sub-title">X{{ nav.title }}</span></a>
+            <a href="{{ url }}"><span class="nav__sub-title">{{ nav.title }}</span></a>
           {% else %}
             <span class="nav__sub-title">{{ nav.title }}</span>
           {% endif %}
@@ -36,9 +36,9 @@
       {% endif %}
     {% endfor %}
   </ul>
-  <hr>
   {% if page.layout == "single" or page.layout == "posts" %}
     {% if page.layout == "single" %}
+      <hr>
       {% assign prefixde = "Diese Seite" %}
       {% assign prefixen = "This page" %}
     {% elsif page.layout == "posts" %}
@@ -48,10 +48,10 @@
     <ul class="nav__items">
     {% if site.lang == "en" %}
       {% capture linkde %}{{ site.baseurl_root }}/de{% endcapture %}
-      <li><a href="{{ page.url | prepend: linkde }}" style="font-size: .75em;"><i class="fa fa-language"></i> {{ prefixde }} auf Deutsch</b></a></li>
+      <li><a href="{{ page.url | prepend: linkde }}" style="font-size: .75em;">{% if page.layout == "single" %}<i class="fa fa-language"></i> {% endif %}{{ prefixde }} auf Deutsch</b></a></li>
     {% elsif site.lang == "de" %}
       {% capture linken %}{{ site.baseurl_root }}/en{% endcapture %}
-      <li><a href="{{ page.url | prepend: linken }}" style="font-size: .75em;"><i class="fa fa-language"></i> {{ prefixen }} in English</a></li>
+      <li><a href="{{ page.url | prepend: linken }}" style="font-size: .75em;">{% if page.layout == "single" %}<i class="fa fa-language"></i> {% endif %}{{ prefixen }} in English</a></li>
     {% endif %}
     </ul>
   {% endif %}

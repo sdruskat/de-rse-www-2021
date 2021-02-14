@@ -195,3 +195,9 @@ events:
         url: "/events/calendar/"
       # - title: "Training"
       #   url: "/events/training/"
+
+blog:
+  - language: "de"
+    title: "<i class='fa fa-language'></i>"
+  - language: "en"
+    title: "<i class='fa fa-language'></i>"
