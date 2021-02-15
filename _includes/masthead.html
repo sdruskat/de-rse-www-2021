@@ -14,7 +14,7 @@
     <div class="masthead__menu">
       <nav id="site-nav" class="greedy-nav">
         {% unless logo_path == empty %}
-        <a class="site-logo" href="{{ site.baseurl | append: '/' }}"><img src="{{ logo_path | relative_url }}" alt=""></a>
+        <a class="site-logo" href="{{ site.baseurl | append: '/' }}"><img src="{{ logo_path | prepend: site.url }}" alt="Official logo of de-RSE e.V."></a>
         {% endunless %}
         <a class="site-title" href="{{ site.baseurl | append: '/' }}">
           {{ site.masthead_title | default: site.title }}
