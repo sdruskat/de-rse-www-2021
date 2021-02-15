@@ -26,8 +26,9 @@
           {{ page.title | default: site.title | markdownify | remove: "<p>" | remove: "</p>" }}
         {% endif %}
       </h1>
-      {% if page.tagline %}
-        <p class="page__lead">{{ page.tagline | markdownify | remove: "<p>" | remove: "</p>" }}</p>
+      {% if page.society %}
+        {% capture society %}{% t global.society-name %}{% endcapture %}
+        <p class="page__lead">{{ society }}</p>
       {% elsif page.header.show_overlay_excerpt != false and page.excerpt %}
         <p class="page__lead">{{ page.excerpt | markdownify | remove: "<p>" | remove: "</p>" }}</p>
       {% endif %}
@@ -38,7 +39,12 @@
       {% if page.header.actions %}
         <p>
         {% for action in page.header.actions %}
-          <a href="{{ action.url | relative_url }}" class="btn btn--light-outline btn--large">{{ action.label | default: site.data.ui-text[site.locale].more_label | default: "Learn More" }}</a>
+          {% if action.id == "member-action" %}
+            {% capture memberlabel %}{% t global.become-member %}{% endcapture %}
+            <a href="{{ action.url | prepend: site.baseurl }}" class="btn btn--light-outline btn--large">{{ memberlabel | markdownify | remove: "<p>" | remove: "</p>" | default: site.data.ui-text[site.locale].more_label | default: "Learn More" }}</a>
+          {% else %}
+            <a href="{{ action.url | relative_url }}" class="btn btn--light-outline btn--large">{{ action.label | default: site.data.ui-text[site.locale].more_label | default: "Learn More" }}</a>
+          {% endif %}
         {% endfor %}
       {% endif %}
     </div>
