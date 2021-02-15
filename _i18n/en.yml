@@ -1,5 +1,8 @@
+global:
   german: German
   english: English
   de: DE
   en: EN
-  this_page_in: "This page in ENG"
+  become-member: "Become a member <i class='fas fa-user-check'></i>"
+  society-name: "Society for Research Software"
+  intro-text: intro-text.md

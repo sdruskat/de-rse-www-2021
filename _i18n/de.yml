@@ -1,6 +1,8 @@
 global:
-  german: German
+  german: Deutsch
   english: Englisch
   de: DE
   en: EN
-  this_page_in: "Diese Seite in DWE"
+  become-member: "Mitglied werden <i class='fas fa-user-check'></i>"
+  society-name: "Gesellschaft für Forschungssoftware"
+  intro-text: intro-text.md
