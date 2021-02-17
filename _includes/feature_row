@@ -20,7 +20,11 @@
         {% endif %}
 
         <div class="archive__item-body">
-          {% if f.title %}
+          <!-- Check first if a translated title exists which should be rendered -->
+          {% if f.title-translation %}
+            <h2 class="archive__item-title">{% t f.title-translation %}</h2>
+          <!-- If no translated title exists, render the title value -->
+          {% elsif f.title %}
             <h2 class="archive__item-title">{{ f.title }}</h2>
           {% endif %}
 
@@ -37,7 +41,11 @@
           {% endif %}
 
           {% if f.url %}
-            <p><a href="{{ f.url | relative_url }}" class="btn {{ f.btn_class }}">{{ f.btn_label | default: site.data.ui-text[site.locale].more_label | default: "Learn More" }}</a></p>
+            {% if f.btn_label-translation %}
+              <p><a href="{{ f.url | relative_url }}" class="btn {{ f.btn_class }}">{% t f.btn_label-translation %}</a></p>
+            {% else %}
+              <p><a href="{{ f.url | relative_url }}" class="btn {{ f.btn_class }}">{{ f.btn_label | default: site.data.ui-text[site.locale].more_label | default: "Learn More" }}</a></p>
+            {% endif %}
           {% endif %}
         </div>
       </div>

@@ -5,4 +5,8 @@ global:
   en: EN
   become-member: "Mitglied werden <i class='fas fa-user-check'></i>"
   society-name: "Gesellschaft für Forschungssoftware"
-  intro-text: intro-text.md
+  
+home:
+  positions-title: "Positionen"
+  learn-more-button: "Mehr"
+  go-to-website-button: "Zur Website"

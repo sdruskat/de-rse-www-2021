@@ -26,9 +26,8 @@
           {{ page.title | default: site.title | markdownify | remove: "<p>" | remove: "</p>" }}
         {% endif %}
       </h1>
-      {% if page.society %}
-        {% capture society %}{% t global.society-name %}{% endcapture %}
-        <p class="page__lead">{{ society }}</p>
+      {% if page.tagline %}
+        <p class="page__lead">{% t page.tagline %}</p>
       {% elsif page.header.show_overlay_excerpt != false and page.excerpt %}
         <p class="page__lead">{{ page.excerpt | markdownify | remove: "<p>" | remove: "</p>" }}</p>
       {% endif %}
