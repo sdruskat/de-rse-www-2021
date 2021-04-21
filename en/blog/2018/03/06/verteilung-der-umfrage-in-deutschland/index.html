@@ -1,0 +1,1445 @@
+<!doctype html>
+<!--
+  Minimal Mistakes Jekyll Theme 4.21.0 by Michael Rose
+  Copyright 2013-2020 Michael Rose - mademistakes.com | @mmistakes
+  Free for personal and commercial use under the MIT license
+  https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
+-->
+<html lang="en" class="no-js">
+  <head>
+    <meta charset="utf-8">
+
+<!-- begin _includes/seo.html --><title>Verteilung der Umfrage in Deutschland - de-RSE - Gesellschaft für Forschungssoftware / Society for Research Software</title>
+<meta name="description" content="Die Auswertung der Umfrage geht langsam voran, hier schon einmal die geographische Verteilung der Antworten. Das Clustering summiert die Beteiligungen der einzelnen Institutionen. Die Zahl gibt an, wieviel Antworten von wo zur Studie beigetragen haben.">
+
+
+
+<meta property="og:type" content="article">
+<meta property="og:locale" content="en_US">
+<meta property="og:site_name" content="de-RSE - Gesellschaft für Forschungssoftware / Society for Research Software">
+<meta property="og:title" content="Verteilung der Umfrage in Deutschland">
+<meta property="og:url" content="/de/blog/2018/03/06/verteilung-der-umfrage-in-deutschland/">
+
+
+  <meta property="og:description" content="Die Auswertung der Umfrage geht langsam voran, hier schon einmal die geographische Verteilung der Antworten. Das Clustering summiert die Beteiligungen der einzelnen Institutionen. Die Zahl gibt an, wieviel Antworten von wo zur Studie beigetragen haben.">
+
+
+
+  <meta property="og:image" content="/de/assets/images/500x300.png">
+
+
+
+
+
+  <meta property="article:published_time" content="2018-03-06T00:00:00-06:00">
+
+
+
+
+
+  
+
+  
+
+
+<link rel="canonical" href="/de/blog/2018/03/06/verteilung-der-umfrage-in-deutschland/">
+
+
+
+
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    
+      "@type": "Person",
+      "name": "de-RSE e.V. - Gesellschaft für Forschungssoftware",
+      "url": "/de/"
+    
+  }
+</script>
+
+
+
+
+
+
+<!-- end _includes/seo.html -->
+
+
+<link href="/de/feed.xml" type="application/atom+xml" rel="alternate" title="de-RSE - Gesellschaft für Forschungssoftware / Society for Research Software Feed">
+
+<!-- https://t.co/dKP3o1e -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script>
+  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+</script>
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="/assets/css/main.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css">
+
+<!--[if IE]>
+  <style>
+    /* old IE unsupported flexbox fixes */
+    .greedy-nav .site-title {
+      padding-right: 3em;
+    }
+    .greedy-nav button {
+      position: absolute;
+      top: 0;
+      right: 0;
+      height: 100%;
+    }
+  </style>
+<![endif]-->
+
+
+
+    <!-- start custom head snippets -->
+
+<link rel="apple-touch-icon" sizes="180x180" href="/assets/images/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/assets/images/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/assets/images/favicon-16x16.png">
+<link rel="manifest" href="/assets/images/site.webmanifest">
+<link rel="mask-icon" href="/assets/images/safari-pinned-tab.svg" color="#5bbad5">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="theme-color" content="#ffffff">
+
+<!-- end custom head snippets -->
+
+  </head>
+
+  <body class="layout--single">
+    <nav class="skip-links">
+  <h2 class="screen-reader-text">Skip links</h2>
+  <ul>
+    <li><a href="#site-nav" class="screen-reader-shortcut">Skip to primary navigation</a></li>
+    <li><a href="#main" class="screen-reader-shortcut">Skip to content</a></li>
+    <li><a href="#footer" class="screen-reader-shortcut">Skip to footer</a></li>
+  </ul>
+</nav>
+
+    <!--[if lt IE 9]>
+<div class="notice--danger align-center" style="margin: 0;">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience.</div>
+<![endif]-->
+
+    
+
+
+
+
+<div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav">
+        
+        <a class="site-logo" href="/en/"><img src="/assets/images/de-rse.png" alt="Official logo of de-RSE e.V."></a>
+        
+        <a class="site-title" href="/en/">
+           
+          
+        </a>
+        <ul class="visible-links">
+          <!-- Iterate languages -->
+          
+            <!-- If language in nav item is current language -->
+            
+          
+            <!-- If language in nav item is current language -->
+            
+              <!-- Assign url -->
+              
+                
+                <!-- Render link -->
+                <li class="masthead__menu-item">
+                  <a href="/en/about/" title="Information about de-RSE">About us</a>
+                </li>
+              
+                
+                <!-- Render link -->
+                <li class="masthead__menu-item">
+                  <a href="/en/community/" title="The de-RSE community">Community</a>
+                </li>
+              
+                
+                <!-- Render link -->
+                <li class="masthead__menu-item">
+                  <a href="/en/blog/" title="English-language blog posts">News & blog</a>
+                </li>
+              
+                
+                <!-- Render link -->
+                <li class="masthead__menu-item">
+                  <a href="/en/resources/" title="RSE-relevant resources">Resources</a>
+                </li>
+              
+                
+                <!-- Render link -->
+                <li class="masthead__menu-item">
+                  <a href="/en/get-involved/" title="Get involved in (de-) RSE!">Get involved!</a>
+                </li>
+              
+                
+                <!-- Render link -->
+                <li class="masthead__menu-item">
+                  <a href="/en/events/" title="RSE-relevant events">Events</a>
+                </li>
+              
+            
+          
+        </ul>
+        
+          <a href="/de"><i class="fa fa-language"></i> DE</a>
+        <button class="greedy-nav__toggle hidden" type="button">
+          <span class="visually-hidden">Toggle menu</span>
+          <div class="navicon"></div>
+        </button>
+        <ul class="hidden-links hidden"></ul>
+      </nav>
+    </div>
+  </div>
+</div>
+
+    <div class="initial-content">
+      
+
+
+
+<div id="main" role="main">
+  
+  <div class="sidebar sticky">
+  
+
+
+<div itemscope itemtype="https://schema.org/Person">
+
+  
+
+  <div class="author__content">
+    
+      <h3 class="author__name" itemprop="name"></h3>
+    
+    
+  </div>
+
+  <div class="author__urls-wrapper">
+    <button class="btn btn--inverse">Follow</button>
+    <ul class="author__urls social-icons">
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      <!--
+  <li>
+    <a href="http://link-to-whatever-social-network.com/user/" itemprop="sameAs" rel="nofollow noopener noreferrer">
+      <i class="fas fa-fw" aria-hidden="true"></i> Custom Social Profile Link
+    </a>
+  </li>
+-->
+    </ul>
+  </div>
+</div>
+
+  
+  </div>
+
+
+
+  <!-- Assign the translated page title to a new variable -->
+  
+
+  <article class="page" itemscope itemtype="https://schema.org/CreativeWork">
+    <meta itemprop="headline" content="">
+    <meta itemprop="description" content="Die Auswertung der Umfrage geht langsam voran, hier schon einmal die geographische Verteilung der Antworten. Das Clustering summiert die Beteiligungen der einzelnen Institutionen. Die Zahl gibt an, wieviel Antworten von wo zur Studie beigetragen haben.">
+    <meta itemprop="datePublished" content="2018-03-06T00:00:00-06:00">
+    
+
+    <div class="page__inner-wrap">
+      
+        <header>
+          <h1 id="page-title" class="page__title" itemprop="headline">
+</h1>
+          
+
+  <p class="page__meta">
+    
+
+    
+
+    
+      
+      
+
+      <span class="page__meta-readtime">
+        <i class="far fa-clock" aria-hidden="true"></i>
+        
+          less than 1 minute read
+        
+      </span>
+    
+  </p>
+
+
+        </header>
+      
+
+      <section class="page__content" itemprop="text">
+        
+        <p>Die Auswertung der <a href="https://www.de-rse.org/blog/2017/10/19/umfrage-forschungssoftware-beteiligten-personen-deutschland-2017.html">Umfrage</a> geht langsam voran, hier schon einmal die geographische Verteilung der Antworten. Das Clustering summiert die Beteiligungen der einzelnen Institutionen. Die Zahl gibt an, wieviel Antworten von wo zur Studie beigetragen haben.</p>
+
+<p>Hinweis: Die Koordinaten der Institute stammt aus <a href="https://www.wikidata.org/">Wikidata</a>. Da dort nicht immer Koordinaten hinterlegt sind oder meine Abfrage die Institution nicht erfasst haben mag, sind hier nur 269 von 325 Beteiligungen zu sehen.</p>
+
+<p>Nachtrag: Statisches Bild für Betrachter ohne Javascript hinzugefügt.</p>
+
+<noscript>
+<img src="/assets/img/blog/2018/deRSE_survey_geom_distr.jpg" alt="geographische Verteilung der Umfragebeteiligungen" />
+</noscript>
+<div id="map" style="height:1100px;"></div>
+
+<script type="text/javascript" src="/en/js/leaflet.js"></script>
+
+<script type="text/javascript" src="/en/js/leaflet.markercluster.js"></script>
+
+<script type="text/javascript">
+
+
+function onEachFeature(feature, layer) {
+    if (feature.properties && feature.properties.popupContent) {
+        layer.bindPopup(feature.properties.popupContent);
+    }
+}
+
+function myPointToLayer(geoJsonPoint, latlng) {
+             return L.marker(latlng, {icon: L.divIcon({className: 'survey-icon',iconSize: new L.Point(20, 20),html:geoJsonPoint.properties.value})}); 
+}
+
+var map = L.map('map').setView([51.000,10.316], 7);
+
+L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+    attribution: '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
+}).addTo(map);
+
+var surveyFeatures = [ {
+  "type" : "Feature",
+  "properties" : {
+    "value" : 6,
+    "popupContent" : "6<br/>Alfred-Wegener-Institut<br/>Alfred Wegener Institute for Polar and Marine Research"
+  },
+  "geometry" : {
+    "coordinates" : [8.579555555, 53.532722222],
+    "type" : "Point"
+  }
+}, {
+  "type" : "Feature",
+  "properties" : {
+    "value" : 1,
+    "popupContent" : "1<br/>Deutsches Institut für Internationale Pädagogische Forschung<br/>Deutsches Institut für Internationale Pädagogische Forschung"
+  },
+  "geometry" : {
+    "coordinates" : [8.638477, 50.122398],
+    "type" : "Point"
+  }
+}, {
+  "type" : "Feature",
+  "properties" : {
+    "value" : 1,
+    "popupContent" : "1<br/>Fernuniversität Hagen<br/>FernUniversität Hagen"
+  },
+  "geometry" : {
+    "coordinates" : [7.49527778, 51.37722222],
+    "type" : "Point"
+  }
+}, {
+  "type" : "Feature",
+  "properties" : {
+    "value" : 1,
+    "popupContent" : "1<br/>Forschungszentrum Jülich<br/>Forschungszentrum Jülich"
+  },
+  "geometry" : {
+    "coordinates" : [6.411944444, 50.905],
+    "type" : "Point"
+  }
+}, {
+  "type" : "Feature",
+  "properties" : {
+    "value" : 5,
+    "popupContent" : "5<br/>Freie Universität Berlin<br/>Free University of Berlin"
+  },
+  "geometry" : {
+    "coordinates" : [13.290555555, 52.453055555],
+    "type" : "Point"
+  }
+}, {
+  "type" : "Feature",
+  "properties" : {
+    "value" : 4,
+    "popupContent" : "4<br/>Helmholtz-Zentrum für Ozeanforschung Kiel<br/>GEOMAR Helmholtz Centre for Ocean Research Kiel"
+  },
+  "geometry" : {
+    "coordinates" : [10.18185, 54.32723],
+    "type" : "Point"
+  }
+}, {
+  "type" : "Feature",
+  "properties" : {
+    "value" : 5,
+    "popupContent" : "5<br/>Deutsches Zentrum für Luft- und Raumfahrt<br/>German Aerospace Center"
+  },
+  "geometry" : {
+    "coordinates" : [7.12306, 50.8528],
+    "type" : "Point"
+  }
+}, {
+  "type" : "Feature",
+  "properties" : {
+    "value" : 4,
+    "popupContent" : "4<br/>Deutsches Krebsforschungszentrum<br/>German Cancer Research Center"
+  },
+  "geometry" : {
+    "coordinates" : [8.6725, 49.41416667],
+    "type" : "Point"
+  }
+}, {
+  "type" : "Feature",
+  "properties" : {
+    "value" : 1,
+    "popupContent" : "1<br/>Deutsches Zentrum für Neurodegenerative Erkrankungen<br/>German Center for Neurodegenerative Diseases"
+  },
+  "geometry" : {
+    "coordinates" : [7.13946111, 50.70119722],
+    "type" : "Point"
+  }
+}, {
+  "type" : "Feature",
+  "properties" : {
+    "value" : 1,
+    "popupContent" : "1<br/>Deutsche Zentralbibliothek für Wirtschaftswissenschaften<br/>German National Library of Economics"
+  },
+  "geometry" : {
+    "coordinates" : [10.15611111, 54.33833333],
+    "type" : "Point"
+  }
+}, {
+  "type" : "Feature",
+  "properties" : {
+    "value" : 3,
+    "popupContent" : "3<br/>Goethe-Universität Frankfurt am Main<br/>Goethe University Frankfurt"
+  },
+  "geometry" : {
+    "coordinates" : [8.651388888, 50.119444444],
+    "type" : "Point"
+  }
+}, {
+  "type" : "Feature",
+  "properties" : {
+    "value" : 1,
+    "popupContent" : "1<br/>Ruprecht-Karls-Universität Heidelberg<br/>Heidelberg University"
+  },
+  "geometry" : {
+    "coordinates" : [8.706388888, 49.410277777],
+    "type" : "Point"
+  }
+}, {
+  "type" : "Feature",
+  "properties" : {
+    "value" : 35,
+    "popupContent" : "35<br/>Helmholtz-Zentrum Potsdam – Deutsches GeoForschungsZentrum<br/>Helmholtz Centre Potsdam, GFZ German Research Centre for Geosciences"
+  },
+  "geometry" : {
+    "coordinates" : [13.0644, 52.3826],
+    "type" : "Point"
+  }
+}, {
+  "type" : "Feature",
+  "properties" : {
+    "value" : 6,
+    "popupContent" : "6<br/>Helmholtz-Zentrum für Umweltforschung – UFZ<br/>Helmholtz Centre for Environmental Research"
+  },
+  "geometry" : {
+    "coordinates" : [12.4288, 51.3521],
+    "type" : "Point"
+  }
+}, {
+  "type" : "Feature",
+  "properties" : {
+    "value" : 1,
+    "popupContent" : "1<br/>Helmholtz-Zentrum für Infektionsforschung<br/>Helmholtz Centre for Infection Research"
+  },
+  "geometry" : {
+    "coordinates" : [10.531487, 52.211502],
+    "type" : "Point"
+  }
+}, {
+  "type" : "Feature",
+  "properties" : {
+    "value" : 2,
+    "popupContent" : "2<br/>Helmholtz-Zentrum Berlin für Materialien und Energie<br/>Helmholtz-Zentrum Berlin"
+  },
+  "geometry" : {
+    "coordinates" : [13.1294, 52.41],
+    "type" : "Point"
+  }
+}, {
+  "type" : "Feature",
+  "properties" : {
+    "value" : 5,
+    "popupContent" : "5<br/>Helmholtz-Zentrum Dresden-Rossendorf<br/>Helmholtz-Zentrum Dresden-Rossendorf"
+  },
+  "geometry" : {
+    "coordinates" : [13.9497, 51.0636],
+    "type" : "Point"
+  }
+}, {
+  "type" : "Feature",
+  "properties" : {
+    "value" : 4,
+    "popupContent" : "4<br/>Helmholtz-Zentrum Geesthacht – Zentrum für Material- und Küstenforschung<br/>Helmholtz-Zentrum Geesthacht Centre for Materials and Coastal Research"
+  },
+  "geometry" : {
+    "coordinates" : [10.42638889, 53.40444444],
+    "type" : "Point"
+  }
+}, {
+  "type" : "Feature",
+  "properties" : {
+    "value" : 9,
+    "popupContent" : "9<br/>Humboldt-Universität zu Berlin<br/>Humboldt University of Berlin"
+  },
+  "geometry" : {
+    "coordinates" : [13.393333333, 52.518055555],
+    "type" : "Point"
+  }
+}, {
+  "type" : "Feature",
+  "properties" : {
+    "value" : 12,
+    "popupContent" : "12<br/>Karlsruher Institut für Technologie<br/>Karlsruhe Institute of Technology"
+  },
+  "geometry" : {
+    "coordinates" : [8.416972222, 49.011916666],
+    "type" : "Point"
+  }
+}, {
+  "type" : "Feature",
+  "properties" : {
+    "value" : 1,
+    "popupContent" : "1<br/>Leibniz-Zentrum für Informatik<br/>Leibniz Center for Informatics"
+  },
+  "geometry" : {
+    "coordinates" : [6.899166666, 49.530277777],
+    "type" : "Point"
+  }
+}, {
+  "type" : "Feature",
+  "properties" : {
+    "value" : 8,
+    "popupContent" : "8<br/>Leibniz-Institut für Astrophysik Potsdam<br/>Leibniz Institute for Astrophysics Potsdam"
+  },
+  "geometry" : {
+    "coordinates" : [13.1042, 52.405],
+    "type" : "Point"
+  }
+}, {
+  "type" : "Feature",
+  "properties" : {
+    "value" : 1,
+    "popupContent" : "1<br/>Leibniz-Institut für die Pädagogik der Naturwissenschaften und Mathematik<br/>Leibniz Institute for Science and Mathematics Education at the University of Kiel"
+  },
+  "geometry" : {
+    "coordinates" : [10.1181, 54.3403],
+    "type" : "Point"
+  }
+}, {
+  "type" : "Feature",
+  "properties" : {
+    "value" : 1,
+    "popupContent" : "1<br/>Leibniz-Institut für Pflanzenbiochemie<br/>Leibniz Institute of Plant Biochemistry"
+  },
+  "geometry" : {
+    "coordinates" : [11.9447, 51.4958],
+    "type" : "Point"
+  }
+}, {
+  "type" : "Feature",
+  "properties" : {
+    "value" : 1,
+    "popupContent" : "1<br/>Leibniz-Forschungsinstitut für Molekulare Pharmakologie<br/>Leibniz-Institut für Molekulare Pharmakologie"
+  },
+  "geometry" : {
+    "coordinates" : [13.5048, 52.6242],
+    "type" : "Point"
+  }
+}, {
+  "type" : "Feature",
+  "properties" : {
+    "value" : 2,
+    "popupContent" : "2<br/>Universität Leipzig<br/>Leipzig University"
+  },
+  "geometry" : {
+    "coordinates" : [12.37872778, 51.3387],
+    "type" : "Point"
+  }
+}, {
+  "type" : "Feature",
+  "properties" : {
+    "value" : 2,
+    "popupContent" : "2<br/>Max-Delbrück-Centrum für Molekulare Medizin<br/>Max Delbrück Center for Molecular Medicine"
+  },
+  "geometry" : {
+    "coordinates" : [13.5026, 52.6248],
+    "type" : "Point"
+  }
+}, {
+  "type" : "Feature",
+  "properties" : {
+    "value" : 2,
+    "popupContent" : "2<br/>Max-Planck-Institut für Biogeochemie<br/>Max Planck Institute for Biogeochemistry"
+  },
+  "geometry" : {
+    "coordinates" : [11.5664, 50.91],
+    "type" : "Point"
+  }
+}, {
+  "type" : "Feature",
+  "properties" : {
+    "value" : 1,
+    "popupContent" : "1<br/>Max-Planck-Institut für Biologie<br/>Max Planck Institute for Biology"
+  },
+  "geometry" : {
+    "coordinates" : [9.06166667, 48.53416667],
+    "type" : "Point"
+  }
+}, {
+  "type" : "Feature",
+  "properties" : {
+    "value" : 11,
+    "popupContent" : "11<br/>Max-Planck-Institut für biophysikalische Chemie<br/>Max Planck Institute for Biophysical Chemistry"
+  },
+  "geometry" : {
+    "coordinates" : [9.96944, 51.5619],
+    "type" : "Point"
+  }
+}, {
+  "type" : "Feature",
+  "properties" : {
+    "value" : 3,
+    "popupContent" : "3<br/>Max-Planck-Institut für Biophysik<br/>Max Planck Institute for Biophysics"
+  },
+  "geometry" : {
+    "coordinates" : [8.63027778, 50.17361111],
+    "type" : "Point"
+  }
+}, {
+  "type" : "Feature",
+  "properties" : {
+    "value" : 4,
+    "popupContent" : "4<br/>Max-Planck-Institut für Hirnforschung<br/>Max Planck Institute for Brain Research"
+  },
+  "geometry" : {
+    "coordinates" : [8.65205, 50.0935],
+    "type" : "Point"
+  }
+}, {
+  "type" : "Feature",
+  "properties" : {
+    "value" : 1,
+    "popupContent" : "1<br/>Max-Planck-Institut für Zellbiologie<br/>Max Planck Institute for Cell Biology"
+  },
+  "geometry" : {
+    "coordinates" : [8.63722222, 49.47],
+    "type" : "Point"
+  }
+}, {
+  "type" : "Feature",
+  "properties" : {
+    "value" : 3,
+    "popupContent" : "3<br/>Max-Planck-Institut für Kolloid- und Grenzflächenforschung<br/>Max Planck Institute for Colloids and Interfaces"
+  },
+  "geometry" : {
+    "coordinates" : [12.9697, 52.4149],
+    "type" : "Point"
+  }
+}, {
+  "type" : "Feature",
+  "properties" : {
+    "value" : 1,
+    "popupContent" : "1<br/>Max-Planck-Institut für Dynamik und Selbstorganisation<br/>Max Planck Institute for Dynamics and Self-Organization"
+  },
+  "geometry" : {
+    "coordinates" : [9.96737, 51.5606],
+    "type" : "Point"
+  }
+}, {
+  "type" : "Feature",
+  "properties" : {
+    "value" : 3,
+    "popupContent" : "3<br/>Max-Planck-Institut für Dynamik komplexer technischer Systeme<br/>Max Planck Institute for Dynamics of Complex Technical Systems"
+  },
+  "geometry" : {
+    "coordinates" : [11.65275, 52.138638888],
+    "type" : "Point"
+  }
+}, {
+  "type" : "Feature",
+  "properties" : {
+    "value" : 1,
+    "popupContent" : "1<br/>Max-Planck-Institut für europäische Rechtsgeschichte<br/>Max Planck Institute for European History of Law"
+  },
+  "geometry" : {
+    "coordinates" : [8.6204, 50.1328],
+    "type" : "Point"
+  }
+}, {
+  "type" : "Feature",
+  "properties" : {
+    "value" : 3,
+    "popupContent" : "3<br/>Max-Planck-Institut für Evolutionsbiologie<br/>Max Planck Institute for Evolutionary Biology"
+  },
+  "geometry" : {
+    "coordinates" : [10.43388889, 54.16],
+    "type" : "Point"
+  }
+}, {
+  "type" : "Feature",
+  "properties" : {
+    "value" : 9,
+    "popupContent" : "9<br/>Max-Planck-Institut für Gravitationsphysik<br/>Max Planck Institute for Gravitational Physics"
+  },
+  "geometry" : {
+    "coordinates" : [12.9703, 52.4164],
+    "type" : "Point"
+  }
+}, {
+  "type" : "Feature",
+  "properties" : {
+    "value" : 2,
+    "popupContent" : "2<br/>Max-Planck-Institut für Intelligente Systeme<br/>Max Planck Institute for Intelligent Systems"
+  },
+  "geometry" : {
+    "coordinates" : [9.08139, 48.7467],
+    "type" : "Point"
+  }
+}, {
+  "type" : "Feature",
+  "properties" : {
+    "value" : 1,
+    "popupContent" : "1<br/>Max-Planck-Institut für medizinische Forschung<br/>Max Planck Institute for Medical Research"
+  },
+  "geometry" : {
+    "coordinates" : [8.676, 49.4125],
+    "type" : "Point"
+  }
+}, {
+  "type" : "Feature",
+  "properties" : {
+    "value" : 1,
+    "popupContent" : "1<br/>Max-Planck-Institut für Stoffwechselforschung<br/>Max Planck Institute for Metabolism Research"
+  },
+  "geometry" : {
+    "coordinates" : [6.91665, 50.9257],
+    "type" : "Point"
+  }
+}, {
+  "type" : "Feature",
+  "properties" : {
+    "value" : 7,
+    "popupContent" : "7<br/>Max-Planck-Institut für Meteorologie<br/>Max Planck Institute for Meteorology"
+  },
+  "geometry" : {
+    "coordinates" : [9.975166666, 53.567722222],
+    "type" : "Point"
+  }
+}, {
+  "type" : "Feature",
+  "properties" : {
+    "value" : 1,
+    "popupContent" : "1<br/>Max-Planck-Institut für Ornithologie<br/>Max Planck Institute for Ornithology"
+  },
+  "geometry" : {
+    "coordinates" : [11.2357, 47.9725],
+    "type" : "Point"
+  }
+}, {
+  "type" : "Feature",
+  "properties" : {
+    "value" : 4,
+    "popupContent" : "4<br/>Max-Planck-Institut für Physik<br/>Max Planck Institute for Physics"
+  },
+  "geometry" : {
+    "coordinates" : [11.6125, 48.1842],
+    "type" : "Point"
+  }
+}, {
+  "type" : "Feature",
+  "properties" : {
+    "value" : 1,
+    "popupContent" : "1<br/>Max-Planck-Institut für Pflanzenzüchtungsforschung<br/>Max Planck Institute for Plant Breeding Research"
+  },
+  "geometry" : {
+    "coordinates" : [6.8594, 50.9584],
+    "type" : "Point"
+  }
+}, {
+  "type" : "Feature",
+  "properties" : {
+    "value" : 1,
+    "popupContent" : "1<br/>Max-Planck-Institut für Menschheitsgeschichte<br/>Max Planck Institute for the Science of Human History"
+  },
+  "geometry" : {
+    "coordinates" : [11.5781, 50.9178],
+    "type" : "Point"
+  }
+}, {
+  "type" : "Feature",
+  "properties" : {
+    "value" : 11,
+    "popupContent" : "11<br/>Max-Planck-Institut für molekulare Zellbiologie und Genetik<br/>Max Planck Institute of Molecular Cell Biology and Genetics"
+  },
+  "geometry" : {
+    "coordinates" : [13.7846, 51.0586],
+    "type" : "Point"
+  }
+}, {
+  "type" : "Feature",
+  "properties" : {
+    "value" : 9,
+    "popupContent" : "9<br/>Potsdam-Institut für Klimafolgenforschung<br/>Potsdam Institute for Climate Impact Research"
+  },
+  "geometry" : {
+    "coordinates" : [13.0643, 52.3806],
+    "type" : "Point"
+  }
+}, {
+  "type" : "Feature",
+  "properties" : {
+    "value" : 5,
+    "popupContent" : "5<br/>Technische Universität Dresden<br/>TU Dresden"
+  },
+  "geometry" : {
+    "coordinates" : [13.726666666, 51.028055555],
+    "type" : "Point"
+  }
+}, {
+  "type" : "Feature",
+  "properties" : {
+    "value" : 4,
+    "popupContent" : "4<br/>Technische Universität Berlin<br/>Technical University of Berlin"
+  },
+  "geometry" : {
+    "coordinates" : [13.32697, 52.51221],
+    "type" : "Point"
+  }
+}, {
+  "type" : "Feature",
+  "properties" : {
+    "value" : 1,
+    "popupContent" : "1<br/>Hochschule für Technik und Wirtschaft Dresden<br/>University of Applied Sciences Dresden"
+  },
+  "geometry" : {
+    "coordinates" : [13.87443, 51.00992],
+    "type" : "Point"
+  }
+}, {
+  "type" : "Feature",
+  "properties" : {
+    "value" : 2,
+    "popupContent" : "2<br/>Rheinische Friedrich-Wilhelms-Universität Bonn<br/>University of Bonn"
+  },
+  "geometry" : {
+    "coordinates" : [7.102222222, 50.733888888],
+    "type" : "Point"
+  }
+}, {
+  "type" : "Feature",
+  "properties" : {
+    "value" : 6,
+    "popupContent" : "6<br/>Universität zu Köln<br/>University of Cologne"
+  },
+  "geometry" : {
+    "coordinates" : [6.928611111, 50.928055555],
+    "type" : "Point"
+  }
+}, {
+  "type" : "Feature",
+  "properties" : {
+    "value" : 1,
+    "popupContent" : "1<br/>Universität Duisburg-Essen<br/>University of Duisburg-Essen"
+  },
+  "geometry" : {
+    "coordinates" : [7.006111, 51.463889],
+    "type" : "Point"
+  }
+}, {
+  "type" : "Feature",
+  "properties" : {
+    "value" : 1,
+    "popupContent" : "1<br/>Heinrich-Heine-Universität Düsseldorf<br/>University of Düsseldorf"
+  },
+  "geometry" : {
+    "coordinates" : [6.794166666, 51.190277777],
+    "type" : "Point"
+  }
+}, {
+  "type" : "Feature",
+  "properties" : {
+    "value" : 2,
+    "popupContent" : "2<br/>Albert-Ludwigs-Universität Freiburg<br/>University of Freiburg"
+  },
+  "geometry" : {
+    "coordinates" : [7.846944444, 47.994166666],
+    "type" : "Point"
+  }
+}, {
+  "type" : "Feature",
+  "properties" : {
+    "value" : 5,
+    "popupContent" : "5<br/>Georg-August-Universität Göttingen<br/>University of Göttingen"
+  },
+  "geometry" : {
+    "coordinates" : [9.934444444, 51.541944444],
+    "type" : "Point"
+  }
+}, {
+  "type" : "Feature",
+  "properties" : {
+    "value" : 4,
+    "popupContent" : "4<br/>Universität Hamburg<br/>University of Hamburg"
+  },
+  "geometry" : {
+    "coordinates" : [9.98388889, 53.56694444],
+    "type" : "Point"
+  }
+}, {
+  "type" : "Feature",
+  "properties" : {
+    "value" : 1,
+    "popupContent" : "1<br/>Gottfried Wilhelm Leibniz Universität Hannover<br/>University of Hanover"
+  },
+  "geometry" : {
+    "coordinates" : [9.717727777, 52.382213888],
+    "type" : "Point"
+  }
+}, {
+  "type" : "Feature",
+  "properties" : {
+    "value" : 2,
+    "popupContent" : "2<br/>Friedrich-Schiller-Universität Jena<br/>University of Jena"
+  },
+  "geometry" : {
+    "coordinates" : [11.582222222, 50.928333333],
+    "type" : "Point"
+  }
+}, {
+  "type" : "Feature",
+  "properties" : {
+    "value" : 1,
+    "popupContent" : "1<br/>Technische Universität Kaiserslautern<br/>University of Kaiserslautern"
+  },
+  "geometry" : {
+    "coordinates" : [7.75306, 49.4239],
+    "type" : "Point"
+  }
+}, {
+  "type" : "Feature",
+  "properties" : {
+    "value" : 5,
+    "popupContent" : "5<br/>Christian-Albrechts-Universität zu Kiel<br/>University of Kiel"
+  },
+  "geometry" : {
+    "coordinates" : [10.1225, 54.338888888],
+    "type" : "Point"
+  }
+}, {
+  "type" : "Feature",
+  "properties" : {
+    "value" : 1,
+    "popupContent" : "1<br/>Universität Koblenz-Landau<br/>University of Koblenz and Landau"
+  },
+  "geometry" : {
+    "coordinates" : [8.108611, 49.204444],
+    "type" : "Point"
+  }
+}, {
+  "type" : "Feature",
+  "properties" : {
+    "value" : 2,
+    "popupContent" : "2<br/>Universität Konstanz<br/>University of Konstanz"
+  },
+  "geometry" : {
+    "coordinates" : [9.1881, 47.690215],
+    "type" : "Point"
+  }
+}, {
+  "type" : "Feature",
+  "properties" : {
+    "value" : 3,
+    "popupContent" : "3<br/>Westfälische Wilhelms-Universität Münster<br/>University of Münster"
+  },
+  "geometry" : {
+    "coordinates" : [7.613, 51.964],
+    "type" : "Point"
+  }
+}, {
+  "type" : "Feature",
+  "properties" : {
+    "value" : 1,
+    "popupContent" : "1<br/>Carl von Ossietzky Universität Oldenburg<br/>University of Oldenburg"
+  },
+  "geometry" : {
+    "coordinates" : [8.182222, 53.147778],
+    "type" : "Point"
+  }
+}, {
+  "type" : "Feature",
+  "properties" : {
+    "value" : 2,
+    "popupContent" : "2<br/>Universität Passau<br/>University of Passau"
+  },
+  "geometry" : {
+    "coordinates" : [13.453333333, 48.568333333],
+    "type" : "Point"
+  }
+}, {
+  "type" : "Feature",
+  "properties" : {
+    "value" : 8,
+    "popupContent" : "8<br/>Universität Potsdam<br/>University of Potsdam"
+  },
+  "geometry" : {
+    "coordinates" : [13.0119, 52.4011],
+    "type" : "Point"
+  }
+}, {
+  "type" : "Feature",
+  "properties" : {
+    "value" : 8,
+    "popupContent" : "8<br/>Julius-Maximilians-Universität Würzburg<br/>University of Würzburg"
+  },
+  "geometry" : {
+    "coordinates" : [9.935277777, 49.788055555],
+    "type" : "Point"
+  }
+}, {
+  "type" : "Feature",
+  "properties" : {
+    "value" : 1,
+    "popupContent" : "1<br/>Weierstraß-Institut für Angewandte Analysis und Stochastik<br/>Weierstrass Institute"
+  },
+  "geometry" : {
+    "coordinates" : [13.396019, 52.512548],
+    "type" : "Point"
+  }
+} ];
+
+function myClustering(cluster) {
+		var childCount = cluster.getChildCount();
+		var c = ' marker-cluster-';
+		if (childCount < 10) {
+			c += 'small';
+		} else if (childCount < 100) {
+			c += 'medium';
+		} else {
+			c += 'large';
+		}
+		var markers = cluster.getAllChildMarkers();
+		var n = 0;
+        for (var i = 0; i < markers.length; i++) 
+        {
+        	n += markers[i].feature.properties.value;
+        }
+		return new L.DivIcon({ html: '<div><span>' + n + '</span></div>', className: 'marker-cluster' + c, iconSize: new L.Point(40, 40) });
+}
+
+var surveyGroup = L.markerClusterGroup(
+	{
+		iconCreateFunction:myClustering
+	}
+);
+var surveyLayer = 	L.geoJSON(surveyFeatures, {
+                                     	onEachFeature: onEachFeature,
+                                     	pointToLayer:myPointToLayer
+                                     }
+               	  );
+surveyGroup.addLayer(surveyLayer);
+map.addLayer(surveyGroup);
+
+</script>
+
+
+        
+      </section>
+
+      <footer class="page__meta">
+        
+        
+  
+
+
+  
+  
+  
+
+  <p class="page__taxonomy">
+    <strong><i class="fas fa-fw fa-tags" aria-hidden="true"></i> Tags: </strong>
+    <span itemprop="keywords">
+    
+      
+      
+      <a href="/de/tags/#update" class="page__taxonomy-item" rel="tag">update</a>
+    
+    </span>
+  </p>
+
+
+
+
+  
+
+
+  
+  
+  
+
+  <p class="page__taxonomy">
+    <strong><i class="fas fa-fw fa-folder-open" aria-hidden="true"></i> Categories: </strong>
+    <span itemprop="keywords">
+    
+      
+      
+      <a href="/de/categories/#jekyll" class="page__taxonomy-item" rel="tag">Jekyll</a>
+    
+    </span>
+  </p>
+
+
+        
+  <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time datetime="2018-03-06T00:00:00-06:00">March 6, 2018</time></p>
+
+
+      </footer>
+
+      <section class="page__share">
+  
+    <h4 class="page__share-title">Share on</h4>
+  
+
+  <a href="https://twitter.com/intent/tweet?text=Verteilung+der+Umfrage+in+Deutschland%20%2Fde%2Fblog%2F2018%2F03%2F06%2Fverteilung-der-umfrage-in-deutschland%2F" class="btn btn--twitter" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Twitter"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i><span> Twitter</span></a>
+
+  <a href="https://www.facebook.com/sharer/sharer.php?u=%2Fde%2Fblog%2F2018%2F03%2F06%2Fverteilung-der-umfrage-in-deutschland%2F" class="btn btn--facebook" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Facebook"><i class="fab fa-fw fa-facebook" aria-hidden="true"></i><span> Facebook</span></a>
+
+  <a href="https://www.linkedin.com/shareArticle?mini=true&url=%2Fde%2Fblog%2F2018%2F03%2F06%2Fverteilung-der-umfrage-in-deutschland%2F" class="btn btn--linkedin" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on LinkedIn"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span></a>
+</section>
+
+
+      
+  <nav class="pagination">
+    
+      <a href="/de/blog/2018/03/01/digital-humanities-im-deutschsprachigen-raum-gruenden-rse-ag/" class="pagination--pager" title="Digital Humanities im deutschsprachigen Raum gründen AG DH-RSE
+">Previous</a>
+    
+    
+      <a href="/de/blog/2018/07/30/rses-at-egu-ga/" class="pagination--pager" title="Research Software Engineers from the Geosciences assemble for the first time at EGU General Assembly 2018
+">Next</a>
+    
+  </nav>
+
+    </div>
+
+    
+  </article>
+
+  
+  
+    <div class="page__related">
+      <h4 class="page__related-title">You may also enjoy</h4>
+      <div class="grid__wrapper">
+        
+          
+
+
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+      <div class="archive__item-teaser">
+        <img src="/de/assets/images/500x300.png" alt="">
+      </div>
+    
+    <h2 class="archive__item-title no_toc" itemprop="headline">
+      
+        <a href="/en/blog/2021/01/27/introducing-the-international-council-of-rse-associations/" rel="permalink">Introducing the International Council of RSE Associations
+</a>
+      
+    </h2>
+    
+
+  <p class="page__meta">
+    
+
+    
+
+    
+      
+      
+
+      <span class="page__meta-readtime">
+        <i class="far fa-clock" aria-hidden="true"></i>
+        
+          3 minute read
+        
+      </span>
+    
+  </p>
+
+
+    <p class="archive__item-excerpt" itemprop="description">Cross-posted on researchsoftware.org.
+Photo by Mat Reding on Unsplash.
+</p>
+  </article>
+</div>
+
+        
+          
+
+
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+      <div class="archive__item-teaser">
+        <img src="/de/assets/images/500x300.png" alt="">
+      </div>
+    
+    <h2 class="archive__item-title no_toc" itemprop="headline">
+      
+        <a href="/en/blog/2020/09/22/deRSE-MV/" rel="permalink">de-RSE e.V. Jahreshauptversammlung 2020
+</a>
+      
+    </h2>
+    
+
+  <p class="page__meta">
+    
+
+    
+
+    
+      
+      
+
+      <span class="page__meta-readtime">
+        <i class="far fa-clock" aria-hidden="true"></i>
+        
+          2 minute read
+        
+      </span>
+    
+  </p>
+
+
+    <p class="archive__item-excerpt" itemprop="description">Am Donnerstag, dem 27. August 2020, dem eigentlich letzten Tag der abgesagten deRSE20-Konferenz, lud de-RSE e.V. seine Mitglieder zur jährlichen Jahreshauptv...</p>
+  </article>
+</div>
+
+        
+          
+
+
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+      <div class="archive__item-teaser">
+        <img src="/de/assets/images/500x300.png" alt="">
+      </div>
+    
+    <h2 class="archive__item-title no_toc" itemprop="headline">
+      
+        <a href="/en/blog/2020/01/31/derse20-goes-bazaar/" rel="permalink">deRSE20 Goes Bazaar
+</a>
+      
+    </h2>
+    
+
+  <p class="page__meta">
+    
+
+    
+
+    
+      
+      
+
+      <span class="page__meta-readtime">
+        <i class="far fa-clock" aria-hidden="true"></i>
+        
+          1 minute read
+        
+      </span>
+    
+  </p>
+
+
+    <p class="archive__item-excerpt" itemprop="description">Have you read the essay “The Cathedral and the Bazaar”, by Eric S. Raymond about open source development?
+In it, Raymond argues that open-source development ...</p>
+  </article>
+</div>
+
+        
+          
+
+
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+      <div class="archive__item-teaser">
+        <img src="/de/assets/images/500x300.png" alt="">
+      </div>
+    
+    <h2 class="archive__item-title no_toc" itemprop="headline">
+      
+        <a href="/en/blog/2019/12/20/derse20-terminankuendigung/" rel="permalink">Terminankündigung: deRSE20 - 2. Internationale Konferenz für research software engineers in Deutschland, 25.-27. August 2020
+</a>
+      
+    </h2>
+    
+
+  <p class="page__meta">
+    
+
+    
+
+    
+      
+      
+
+      <span class="page__meta-readtime">
+        <i class="far fa-clock" aria-hidden="true"></i>
+        
+          less than 1 minute read
+        
+      </span>
+    
+  </p>
+
+
+    <p class="archive__item-excerpt" itemprop="description">Die erstmalige Ausrichtung der Konferenz für Research Software Engineers im Juni diesen Jahres auf dem Telegrafenberg in Potsdam war ein voller Erfolg.
+Darum...</p>
+  </article>
+</div>
+
+        
+      </div>
+    </div>
+  
+  
+</div>
+
+    </div>
+
+    
+
+    <div id="footer" class="page__footer">
+      <footer>
+        <!-- start custom footer snippets -->
+
+<!-- end custom footer snippets -->
+        <div class="page__footer-follow">
+  <ul class="social-icons">
+    
+      <li><strong>Follow:</strong></li>
+    
+
+    
+      
+        
+          <li><a href="https://twitter.com/RSE_de" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter</a></li>
+        
+      
+        
+          <li><a href="https://github.com/de-RSE" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>
+        
+      
+    
+
+    <li><a href="/de/feed.xml"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
+  </ul>
+</div>
+
+<div class="page__footer-copyright">&copy; 2021 de-RSE e.V. - Gesellschaft für Forschungssoftware. Powered by <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
+
+      </footer>
+    </div>
+
+    
+  <script src="/assets/js/main.min.js"></script>
+
+
+
+
+
+
+
+
+
+
+  </body>
+</html>

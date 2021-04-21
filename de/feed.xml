@@ -1,0 +1,547 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de"><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="/de/feed.xml" rel="self" type="application/atom+xml" /><link href="/de/" rel="alternate" type="text/html" hreflang="de" /><updated>2021-04-21T07:06:16-05:00</updated><id>/de/feed.xml</id><title type="html">de-RSE - Gesellschaft für Forschungssoftware / Society for Research Software</title><subtitle>An amazing website.</subtitle><author><name>de-RSE e.V.</name></author><entry><title type="html">Introducing the International Council of RSE Associations</title><link href="/de/blog/2021/01/27/introducing-the-international-council-of-rse-associations/" rel="alternate" type="text/html" title="Introducing the International Council of RSE Associations" /><published>2021-01-27T00:00:00-06:00</published><updated>2021-01-27T00:00:00-06:00</updated><id>/de/blog/2021/01/27/introducing-the-international-council-of-rse-associations</id><content type="html" xml:base="/de/blog/2021/01/27/introducing-the-international-council-of-rse-associations/">&lt;p&gt;&lt;em&gt;Cross-posted on &lt;a href=&quot;https://researchsoftware.org/2020-workshop.html&quot;&gt;researchsoftware.org&lt;/a&gt;.&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;Photo by &lt;a href=&quot;https://unsplash.com/@matreding&quot;&gt;Mat Reding&lt;/a&gt; on &lt;a href=&quot;https://unsplash.com/&quot;&gt;Unsplash&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/de/assets/img/blog/2021/introducing-international-council-rse-assocs.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The RSE movement has been very successful, leading to thousands of both
+formally titled and self-described RSEs, about 7 national or
+multinational RSE associations, and a series of international RSE events
+(&lt;a href=&quot;https://sorse.github.io&quot;&gt;&lt;em&gt;SORSE&lt;/em&gt;&lt;/a&gt;). This growth has led to a
+challenge, that there is no formal mechanism to ensure that the national
+associations collaborate internationally. This means that there is no
+clear view on who should be running international branded events such as
+an “International RSE Conference” and no active coordination to ensure
+that the national associations don't compete for conference dates by
+accident. In addition to organisational aspects, associations often face
+similar governance and policy challenges as well as potentially
+duplicating initiatives that could be run across associations. At the
+same time there is a need to provide resources and a point of contact
+for aspiring communities. It is necessary to find a working model for
+communities with a broad spectrum of maturity levels, giving a forum to
+the ones further ahead in the process of establishing an initiative,
+while providing means for others to get started.&lt;/p&gt;
+
+&lt;!--break--&gt;
+
+&lt;h2 id=&quot;the-solution&quot;&gt;The solution&lt;/h2&gt;
+
+&lt;p&gt;Based on discussion at the &lt;a href=&quot;https://researchsoftware.org/2020-workshop.html&quot;&gt;&lt;em&gt;2nd International RSE Leaders
+Workshop&lt;/em&gt;&lt;/a&gt;, a set of
+national and multinational associations&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.be-rse.org/&quot;&gt;be-RSE&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://de-rse.org&quot;&gt;de-RSE&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://nl-rse.org/&quot;&gt;NL-RSE&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://nordic-rse.org/&quot;&gt;Nordic RSE&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://rse-aunz.github.io&quot;&gt;RSE-AUNZ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://society-rse.org&quot;&gt;The Society of RSE (UK)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://us-rse.org/&quot;&gt;US-RSE&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;have created the “International Council of RSE Associations” (“The
+Council”) as a forum to communicate and formally meet to ensure cohesion
+between associations and to provide a platform for open discussion
+around international issues and affairs. This enables collective
+decision making, collaboration among national associations as well as
+peer support.&lt;/p&gt;
+
+&lt;p&gt;Each member association has agreed to send two representatives (members
+of the association’s leadership group, well versed in current RSE events
+and capable of speaking on behalf of the association) to the Council,
+which meets virtually at least two times per year, and likely more as we
+start up.&lt;/p&gt;
+
+&lt;p&gt;The initial goals of the International Council of RSE Associations are:&lt;/p&gt;
+
+&lt;h3 id=&quot;1-communication-and-coordination&quot;&gt;1. Communication and Coordination&lt;/h3&gt;
+
+&lt;p&gt;This includes &lt;strong&gt;coordination of participation in other interest groups&lt;/strong&gt;, such as the &lt;a href=&quot;https://www.researchsoft.org/&quot;&gt;&lt;em&gt;Research Software Alliance (ReSA)&lt;/em&gt;&lt;/a&gt; and the &lt;a href=&quot;https://www.rd-alliance.org/&quot;&gt;&lt;em&gt;Research Data Alliance (RDA)&lt;/em&gt;&lt;/a&gt;; &lt;strong&gt;coordination of advocacy&lt;/strong&gt;,
+developing a common argument for advocating for the implementation of
+Research Software Engineering for institutions, policy makers, funders,
+etc.; &lt;strong&gt;event coordination&lt;/strong&gt;, to minimize the likelihood that
+associations schedule conflicting events; &lt;strong&gt;international RSE event
+branding&lt;/strong&gt;, that the Council can approve of the use of the term
+“International RSE” for events; and &lt;strong&gt;international conference
+planning&lt;/strong&gt;, such as potentially an international conference rotated
+around societies/associations.&lt;/p&gt;
+
+&lt;h3 id=&quot;2-discussion-forum&quot;&gt;2. Discussion Forum&lt;/h3&gt;
+
+&lt;p&gt;The member associations can &lt;strong&gt;raise questions and set the agenda for
+discussion on topics&lt;/strong&gt; pertaining to the organization and operation of a
+national association, to create a general forum to share knowledge,
+experiences, and best practices surrounding the formation and growth of
+national RSE associations, and to make this knowledge available to both
+established and new associations.&lt;/p&gt;
+
+&lt;h3 id=&quot;3-avoiding-and-resolving-conflicts-between-associations&quot;&gt;3. Avoiding and resolving conflicts between Associations&lt;/h3&gt;
+
+&lt;p&gt;Regular Council meetings provide a formal and public opportunity to ask
+questions to other associations, particularly where other associations
+are interested in the answers. And should a substantive conflict between
+associations arise, the Council will provide a &lt;strong&gt;formal path to conflict
+resolution&lt;/strong&gt;. Member associations can bring the issue to the Council
+meeting and request the Council work together to resolve the issue.&lt;/p&gt;
+
+&lt;h3 id=&quot;4-development-of-new-national-associations&quot;&gt;4. Development of new national associations&lt;/h3&gt;
+
+&lt;p&gt;The Council will help and to encourage initiatives to develop new
+national RSE associations. The new establishing associations can attend
+the council as observing participants, and at the end of Council
+meetings, these observing participants can ask questions to the Council
+or offer items for discussion. This is intended to &lt;strong&gt;give the leaders of
+burgeoning communities an opportunity to listen and learn&lt;/strong&gt; from Council
+associations to further support the growth of their communities. Once
+matured, the new associations can become full members of the Council.
+While the addition of future association members will be voted on by the
+existing Council membership, the Council currently thinks that important
+criteria for membership are:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Creating an identifiable and branded web presence&lt;/li&gt;
+  &lt;li&gt;Agreeing to participate in the International RSE survey&lt;/li&gt;
+  &lt;li&gt;Creating a unique and branded forum (persistent chat (channel),
+mailing list, etc) consisting of 20 or more individuals with active
+participation from members&lt;/li&gt;
+  &lt;li&gt;Uniquely representing the RSE community in one or more countries&lt;/li&gt;
+  &lt;li&gt;Having had at least one (documented) group activity in the 12 months
+before joining the Council, such as a community event, community
+call, annual general meeting, or similar&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;contact&quot;&gt;Contact&lt;/h2&gt;
+
+&lt;p&gt;The Council's first meeting was 25 January 2021 and it plans to meet on
+a regular basis throughout the year. The Council can be contacted at
+&lt;a href=&quot;mailto:intl-rse-council@listserv.dfn.de&quot;&gt;&lt;em&gt;intl-rse-council@listserv.dfn.de&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;</content><author><name>Daniel S. Katz, Stephan Druskat, Ian Cosden, Paul Richmond, Anne Fouilloux</name></author><category term="Jekyll" /><category term="update" /><summary type="html">Cross-posted on researchsoftware.org. Photo by Mat Reding on Unsplash.</summary></entry><entry><title type="html">de-RSE e.V. Jahreshauptversammlung 2020</title><link href="/de/blog/2020/09/22/deRSE-MV/" rel="alternate" type="text/html" title="de-RSE e.V. Jahreshauptversammlung 2020" /><published>2020-09-22T00:00:00-05:00</published><updated>2020-09-22T00:00:00-05:00</updated><id>/de/blog/2020/09/22/deRSE-MV</id><content type="html" xml:base="/de/blog/2020/09/22/deRSE-MV/">&lt;p&gt;Am Donnerstag, dem 27. August 2020, dem eigentlich letzten Tag der abgesagten deRSE20-Konferenz, lud de-RSE e.V. seine Mitglieder zur jährlichen Jahreshauptversammlung ein.
+Die &lt;a href=&quot;https://de.wikipedia.org/wiki/COVID-19&quot;&gt;COVID-19&lt;/a&gt;-Situation machte es erforderlich, dass ein Großteil der Mitglieder nur online teilnehmen konnte.
+Lediglich 3 Mitglieder konnten persönlich zum Treffen in der &lt;a href=&quot;https://www.helmholtz-hida.de/ueber-hida/&quot;&gt;HIDA (Helmholtz Information &amp;amp; Data Science Academy)&lt;/a&gt; kommen.
+Für die Bereitstellung der dortigen Räume möchten wir uns noch einmal ausdrücklich bedanken.
+Für die Online-Teilnahme wurde der &lt;a href=&quot;https://meet.gwdg.de/b&quot;&gt;Big-Blue-Button Service der GWDG&lt;/a&gt; genutzt, was insbesondere auch die Wahlen erleichterte.&lt;/p&gt;
+
+&lt;p&gt;Auf der Jahreshauptversammlung wurde im Rechenschaftsbericht des Vorstandes (&lt;a href=&quot;https://github.com/DE-RSE/berichte/raw/master/Jahresberichte/2019/Rechenschaftsbericht_2019_publiziert.pdf&quot;&gt;pdf&lt;/a&gt;) die Tätigkeit des Vereins für das Jahr 2019 zusammengefasst.
+Nach dem Finanzbericht der Schatzmeister und dem entsprechenden Bericht der Kassenprüfer wurde der Vorstand für das Jahr 2019 entlastet.&lt;/p&gt;
+
+&lt;p&gt;Für die danach anstehende Wahl der sechs offenen Vorstandsposten stand jeweils nur eine Person zur Wahl.
+Martin Hammitzsch, bisheriger stellvertretender Schatzmeister, stellte sich nicht für eine Wiederwahl zur Verfügung.
+Dafür bot Florian Thiery seine Mitarbeit für den Verein auf diesem Posten an.
+Alle anderen, bisherigen Vorstandsmitglieder stellten sich zur Wiederwahl auf.
+Alle Kandidaten/-innen wurden einstimmig bzw. mit sehr großer Mehrheit gewählt.&lt;/p&gt;
+
+&lt;p&gt;Somit besteht der neue Vorstand des de-RSE e.V. aus:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Frank Löffler (Vorsitz)&lt;/li&gt;
+  &lt;li&gt;Daniel Nüst (stellv. Vorsitz)&lt;/li&gt;
+  &lt;li&gt;Stephan Janosch (Schatzmeister)&lt;/li&gt;
+  &lt;li&gt;Florian Thiery (stellv. Schatzmeister)&lt;/li&gt;
+  &lt;li&gt;Bernadette Fritzsch (Schriftführung)&lt;/li&gt;
+  &lt;li&gt;Stephan Druskat (stellv. Schriftführung)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Die beiden Kassenprüfer Thomas Krause und Alexander Struck wurden ebenfalls im Amt bestätigt.&lt;/p&gt;
+
+&lt;p&gt;Zum Abschluss wurden noch Ideen diskutiert, die Satzung bzw. Geschäftsordnung möglicherweise zu ändern.
+Hier wurden unter anderem die Frist für die Einladung zur Jahreshauptversammlung bzw. die Frist zur Einreichung für Tagesordnungspunkte für diese besprochen, sowie die Art und Weise der Kandidatenfindung.
+Um diese Punkte mit interessierten Personen weiter diskutieren zu können, wird ein virtuelles Treffen organisiert werden.&lt;/p&gt;
+
+&lt;p&gt;Nach dem offiziellen Ende der Jahreshauptversammlung kam ein größerer Teil der Mitglieder noch zu einem informellen Treffen zusammen, um sich über ihre Gedanken zum Thema RSE und auch zum Verein auszutauschen.&lt;/p&gt;
+
+&lt;p&gt;Sollten Dir Themen zum Thema RSE auf dem Herzen liegen, dann lass’ uns davon hören.
+So erreichst Du uns:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://chat.gwdg.de/channel/derse&quot;&gt;RocketChat&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;mailto:liste@de-RSE.org&quot;&gt;Emailliste&lt;/a&gt; (Hier abonnieren: &lt;a href=&quot;https://ml-cgn04.ispgateway.de/mailman/listinfo/liste_de-rse.org&quot;&gt;Mailman Infoseite&lt;/a&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/rse_de&quot;&gt;Twitter&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Die Gesellschaft für Forschungssoftware möchte sich ausdrücklich bedanken bei:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Martin Hammitzsch (Gründungsmitglied und Mitglied des Gründungsvorstands) für seine wertvolle Hilfe und Arbeit beim Aufbau des de-RSE e.V.,&lt;/li&gt;
+  &lt;li&gt;Thomas Krause und Alexander Struck für ihre gewissenhafte Kassenprüfung, ihre hilfreichen Verbesserungsvorschläge und ihre Bereitschaft für ein weiteres Jahr der Zusammenarbeit,&lt;/li&gt;
+  &lt;li&gt;allen Mitgliedern unser Community, die uns durch ihre Mitarbeit unterstützt haben. Wie groß dieses Engagement sein kann, durften wir bei der &lt;a href=&quot;https://de-rse.org/de/conf2019/&quot;&gt;deRSE19 Konferenz&lt;/a&gt; erleben: Danke!&lt;/li&gt;
+  &lt;li&gt;der Gesellschaft für Informatik für ihre Hilfe bei der Ausrichtung der &lt;a href=&quot;https://de-rse.org/de/conf2019/&quot;&gt;deRSE19 Konferenz&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;der britischen &lt;a href=&quot;https://society-rse.org/&quot;&gt;Society for Research Software Engineering&lt;/a&gt; für wertvollen Erfahrungsaustausch zur Ausrichtung von deRSE19&lt;/li&gt;
+  &lt;li&gt;allen Sponsoren der &lt;a href=&quot;https://de-rse.org/de/conf2019/&quot;&gt;deRSE19 Konferenz&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Frank Löffler</name></author><category term="Jekyll" /><category term="update" /><summary type="html">Am Donnerstag, dem 27. August 2020, dem eigentlich letzten Tag der abgesagten deRSE20-Konferenz, lud de-RSE e.V. seine Mitglieder zur jährlichen Jahreshauptversammlung ein. Die COVID-19-Situation machte es erforderlich, dass ein Großteil der Mitglieder nur online teilnehmen konnte. Lediglich 3 Mitglieder konnten persönlich zum Treffen in der HIDA (Helmholtz Information &amp;amp; Data Science Academy) kommen. Für die Bereitstellung der dortigen Räume möchten wir uns noch einmal ausdrücklich bedanken. Für die Online-Teilnahme wurde der Big-Blue-Button Service der GWDG genutzt, was insbesondere auch die Wahlen erleichterte.</summary></entry><entry><title type="html">deRSE20 Goes Bazaar</title><link href="/de/blog/2020/01/31/derse20-goes-bazaar/" rel="alternate" type="text/html" title="deRSE20 Goes Bazaar" /><published>2020-01-31T00:00:00-06:00</published><updated>2020-01-31T00:00:00-06:00</updated><id>/de/blog/2020/01/31/derse20-goes-bazaar</id><content type="html" xml:base="/de/blog/2020/01/31/derse20-goes-bazaar/">&lt;p&gt;Have you read the essay &lt;a href=&quot;http://www.catb.org/~esr/writings/cathedral-bazaar/cathedral-bazaar/&quot;&gt;“The Cathedral and the Bazaar”, by Eric S. Raymond&lt;/a&gt; about open source development?
+In it, Raymond argues that open-source development breaks down the mismatch and separation between different parties regarding mental models of a problem, in his example a software program.
+Opening the source for a solution of the problem, he further says, makes it “far easier for tester and developer to develop a shared representation grounded in the actual source code and to communicate effectively about it.”&lt;/p&gt;
+
+&lt;p&gt;Translated to open research, we see an analogy in open collaboration based on a common shared source of knowledge. Indeed, for deRSE20, we would like it to be &lt;em&gt;far easier for presenters and audience to develop a shared representation grounded in common knowledge&lt;/em&gt;, and to communicate effectively about it. As a community conference, there has been a fairly large overlap of presenters and audience at deRSE19 already. This year, we’d like to push this even further, and encourage more, stronger, and earlier collaboration on the topics in research software you care about.&lt;/p&gt;
+
+&lt;p&gt;Therefore, we are happy to present the &lt;strong&gt;deRSE20 Topic Bazaar&lt;/strong&gt;! What may sound fairly grand is in fact very simple: If you consider submitting a contribution to deRSE20, we would like you to look around to see if there are potential collaborators in the community, which you may not know about yet. To make it easy for you to find collaborators, we’ve set up a simple “pad” (a shared document on the web, written in Markdown and rendered simultaneously). In this pad, you can&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;present your idea for a contribution and invite others to join you and collaborate on the contribution, or&lt;/li&gt;
+  &lt;li&gt;search for ideas that you are interested in collaborating on, and get in touch with the initiators.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;We hope to see many fruitful collaborative contributions at deRSE20!&lt;/p&gt;
+
+&lt;p&gt;We encourage you use the topic bazaar especially if plan to submit a workshop proposal! Please don’t leave this until the last minute, as collaboration takes time.&lt;/p&gt;
+
+&lt;p&gt;The &lt;strong&gt;deRSE20 Topic Bazaar&lt;/strong&gt; can be found at &lt;strong&gt;&lt;a href=&quot;https://bit.ly/deRSE20-bazaar&quot;&gt;https://bit.ly/deRSE20-bazaar&lt;/a&gt;&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;The deRSE20 Call for Contributions opens on Monday, 03 February 2020.&lt;/p&gt;</content><author><name>Stephan Druskat</name></author><category term="Jekyll" /><category term="update" /><summary type="html">Have you read the essay “The Cathedral and the Bazaar”, by Eric S. Raymond about open source development? In it, Raymond argues that open-source development breaks down the mismatch and separation between different parties regarding mental models of a problem, in his example a software program. Opening the source for a solution of the problem, he further says, makes it “far easier for tester and developer to develop a shared representation grounded in the actual source code and to communicate effectively about it.”</summary></entry><entry><title type="html">Terminankündigung: deRSE20 - 2. Internationale Konferenz für research software engineers in Deutschland, 25.-27. August 2020</title><link href="/de/blog/2019/12/20/derse20-terminankuendigung/" rel="alternate" type="text/html" title="Terminankündigung: deRSE20 - 2. Internationale Konferenz für research software engineers in Deutschland, 25.-27. August 2020" /><published>2019-12-20T00:00:00-06:00</published><updated>2019-12-20T00:00:00-06:00</updated><id>/de/blog/2019/12/20/derse20-terminankuendigung</id><content type="html" xml:base="/de/blog/2019/12/20/derse20-terminankuendigung/">&lt;p&gt;Die erstmalige Ausrichtung der Konferenz für Research Software Engineers im Juni diesen Jahres auf dem Telegrafenberg in Potsdam war ein voller Erfolg.
+Darum freuen wir uns euch mitteilen zu können, dass die Organisation für die “&lt;a href=&quot;https://de-rse.org/deRSE20/&quot;&gt;2. Internationale Konferenz für Research Software Engineers in Deutschland&lt;/a&gt;” begonnen hat.&lt;/p&gt;
+
+&lt;p&gt;Die Konferenz wird voraussichtlich von Dienstagmittag, dem &lt;strong&gt;25.08.2020&lt;/strong&gt;, bis Donnerstagmittag, dem &lt;strong&gt;27.08.2020&lt;/strong&gt;, an der Friedrich-Schiller-Universität Jena stattfinden! Wir freuen uns sehr darauf, euch dort zu begrüßen.&lt;/p&gt;
+
+&lt;p&gt;Wir wissen, dass in einigen Bundesländern zu diesem Zeitpunkt Ferien sind, sind aber durch die Vorauswahl des Ortes an verfügbare Zeiten gebunden.&lt;/p&gt;
+
+&lt;p&gt;Unser Ziel ist es auch in 2020, die Vielfalt der Themen und beteiligten Personen in den Vordergrund zu rücken und einen regen Austausch über das gemeinsame Thema Forschungssoftware zu ermöglichen. Eine Vielzahl von Videoaufzeichnungen vom Juni sind übrigens im &lt;a href=&quot;https://av.tib.eu/series/644/derse+2019+konferenz+fur+forschungssoftwareentwicklerinnen+in+deutschland&quot;&gt;AV-Portal der TIB&lt;/a&gt; zu finden.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Merke vor,&lt;/li&gt;
+  &lt;li&gt;verbreite weiter,&lt;/li&gt;
+  &lt;li&gt;bleib am Ball (&lt;a href=&quot;https://ml-cgn10.ispgateway.de/mailman/listinfo/konferenz-updates_de-rse.org&quot;&gt;konferenz-updates@de-rse.org&lt;/a&gt;) und&lt;/li&gt;
+  &lt;li&gt;hilf mit als Teil des Organisationsteams! Uns fehlen noch Koordinatoren für
+    &lt;ul&gt;
+      &lt;li&gt;freiwillige Helfer&lt;/li&gt;
+      &lt;li&gt;internationale Angelegenheiten&lt;/li&gt;
+      &lt;li&gt;soziale Aktivitäten&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Wenn du Fragen zur Konferenz hast, wende dich bitte an die Organisatoren der Konferenz unter &lt;a href=&quot;mailto:konferenz@de-rse.org&quot;&gt;konferenz@de-rse.org&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Wir sehen uns in Jena!&lt;/p&gt;
+
+&lt;p&gt;Das #deRSE20 Konferenzkomitee&lt;/p&gt;</content><author><name>deRSE e.V. - Gesellschaft für Forschungssoftware</name></author><category term="Jekyll" /><category term="update" /><summary type="html">Die erstmalige Ausrichtung der Konferenz für Research Software Engineers im Juni diesen Jahres auf dem Telegrafenberg in Potsdam war ein voller Erfolg. Darum freuen wir uns euch mitteilen zu können, dass die Organisation für die “2. Internationale Konferenz für Research Software Engineers in Deutschland” begonnen hat. Die Konferenz wird voraussichtlich von Dienstagmittag, dem 25.08.2020, bis Donnerstagmittag, dem 27.08.2020, an der Friedrich-Schiller-Universität Jena stattfinden! Wir freuen uns sehr darauf, euch dort zu begrüßen.</summary></entry><entry><title type="html">Save the Date: deRSE20 - 2nd Internationl Conference of Research Software Engineers in Germany, 25-27 August 2020</title><link href="/de/blog/2019/12/20/derse20-save-the-date/" rel="alternate" type="text/html" title="Save the Date: deRSE20 - 2nd Internationl Conference of Research Software Engineers in Germany, 25-27 August 2020" /><published>2019-12-20T00:00:00-06:00</published><updated>2019-12-20T00:00:00-06:00</updated><id>/de/blog/2019/12/20/derse20-save-the-date</id><content type="html" xml:base="/de/blog/2019/12/20/derse20-save-the-date/">&lt;p&gt;The &lt;em&gt;1st International Conference for Research Software Engineers in Germany&lt;/em&gt; this year in June in Potsdam was a great success.
+Therefore we are very happy to announce that planning for the &lt;strong&gt;&lt;em&gt;&lt;a href=&quot;(https://de-rse.org/deRSE20/)&quot;&gt;2nd International Conference for Research Software Engineers in Germany&lt;/a&gt;&lt;/em&gt;&lt;/strong&gt; has started!&lt;/p&gt;
+
+&lt;h2 id=&quot;save-the-date&quot;&gt;Save the date!&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Where:&lt;/strong&gt; most likely Friedrich Schiller University Jena&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;When:&lt;/strong&gt; 25-27 August 2020&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Hashtag:&lt;/strong&gt; &lt;a href=&quot;https://twitter.com/search?q=%23deRSE20&quot;&gt;#deRSE20&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The conference is expected to take place take place from mid-Tuesday, 25 August 2020, until mid-Thursday, 27 August 2020 at the Friedrich Schiller University Jena.
+We’re very much looking forward to welcoming you there.&lt;/p&gt;
+
+&lt;p&gt;We are aware of holidays during this time in some federal states, but are bound to this date by the availability of the venue.&lt;/p&gt;
+
+&lt;p&gt;It is our continued aim in 2020 to focus on the diversity of topics and people in Research Software Engineering, and enable lively exchanges across the whole spectrum of research software.
+For a first impression of some of the topics that were covered in June, have a look at the video recordings on the &lt;a href=&quot;https://av.tib.eu/series/644/derse+2019+konferenz+fur+forschungssoftwareentwicklerinnen+in+deutschland&quot;&gt;TIB AV portal&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The community is also planning for a co-located &lt;a href=&quot;https://www.dfg.de/foerderung/programme/nfdi/&quot;&gt;NFDI&lt;/a&gt; event.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Save the date,&lt;/li&gt;
+  &lt;li&gt;tell your colleagues and friends,&lt;/li&gt;
+  &lt;li&gt;keep in touch (subscribe to &lt;a href=&quot;https://ml-cgn10.ispgateway.de/mailman/listinfo/konferenz-updates_de-rse.org&quot;&gt;konferenz-updates@de-rse.org&lt;/a&gt;), and&lt;/li&gt;
+  &lt;li&gt;join the organizing team! We’re currently looking for people to coordinate
+    &lt;ul&gt;
+      &lt;li&gt;volunteers,&lt;/li&gt;
+      &lt;li&gt;international initiatives and collaboration,&lt;/li&gt;
+      &lt;li&gt;social activities.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;If you have any questions about the conference, or about joining the team, please get in touch with us at &lt;a href=&quot;mailto:konferenz@de-rse.org&quot;&gt;konferenz@de-rse.org&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;See you in Jena!&lt;/p&gt;
+
+&lt;p&gt;The #deRSE20 conference committee&lt;/p&gt;</content><author><name>deRSE e.V. - Society for Research Software</name></author><category term="Jekyll" /><category term="update" /><summary type="html">The 1st International Conference for Research Software Engineers in Germany this year in June in Potsdam was a great success. Therefore we are very happy to announce that planning for the 2nd International Conference for Research Software Engineers in Germany has started!</summary></entry><entry><title type="html">deRSE20 Call for Committee Members</title><link href="/de/blog/2019/11/01/derse20-call-for-committee-members/" rel="alternate" type="text/html" title="deRSE20 Call for Committee Members" /><published>2019-11-01T00:00:00-05:00</published><updated>2019-11-01T00:00:00-05:00</updated><id>/de/blog/2019/11/01/derse20-call-for-committee-members</id><content type="html" xml:base="/de/blog/2019/11/01/derse20-call-for-committee-members/">&lt;!-- # deRSE20 Call for Committee Members --&gt;
+
+&lt;p&gt;Du möchtest &lt;em&gt;aktiv&lt;/em&gt; die Zukunft der Community der Research Software Engineers (RSEs) in Deutschland mitbestimmen?
+Mach mit beim Organisationskomitee für die zweite internationale Konferenz der Research Software Engineers in Deutschland (&lt;em&gt;deRSE20&lt;/em&gt;)!&lt;/p&gt;
+
+&lt;h2 id=&quot;derse20&quot;&gt;deRSE20&lt;/h2&gt;
+
+&lt;p&gt;Die &lt;a href=&quot;https://www.de-rse.org/de/conf2019/&quot;&gt;erste internationale Konferenz der Research Software Engineers in Deutschland - deRSE19&lt;/a&gt; - fand vom 4. bis 6. Juni 2019 in Potsdam statt und war ein großer Erfolg! Mehr als 200 Teilnehmende aus 7 Ländern diskutierten Forschungssoftware in allen Aspekten und bauten gemeinsam an einer Community.&lt;/p&gt;
+
+&lt;p&gt;Organisiert wurde die deRSE19 von der Community für die Community der Research Software Engineers in Deutschland, konkret von einem Team aus mehr als 30 Freiwilligen, die die Konferenz als Mitglieder des Organisations- oder Programmkomitees oder als Helfer_innen vor Ort planten und durchführten.&lt;/p&gt;
+
+&lt;p&gt;2020 wollen wir die Konferenz fortführen, um die Community wieder zusammenzubringen und auszubauen.&lt;/p&gt;
+
+&lt;p&gt;Die Konferenz wird aller Voraussicht nach an &lt;strong&gt;3 Tagen im Zeitraum 17.08.-27.08.2020 in Jena&lt;/strong&gt; stattfinden.
+Wenn Du auf dem Laufenden bleiben willst, abonniere die Mailingliste &lt;a href=&quot;https://ml-cgn10.ispgateway.de/mailman/listinfo/konferenz-updates_de-rse.org&quot;&gt;konferenz-updates@de-rse.org&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Um die Konferenz planen und durchführen zu können, suchen wir Chairs und Komiteemitglieder, die am Gelingen der Konferenz mitarbeiten wollen.&lt;/p&gt;
+
+&lt;h2 id=&quot;wie-werde-ich-teil-des-organisationsteams&quot;&gt;Wie werde ich Teil des Organisationsteams?&lt;/h2&gt;
+
+&lt;p&gt;Bitte schreibe eine E-Mail mit Betreff “&lt;em&gt;deRSE20 Interesse an Mitarbeit&lt;/em&gt;” an vorstand@de-rse.org. Bitte nenne dabei Deine Heimatinstitution und die Rolle, die Du gern bei der Konferenzorganisation übernehmen möchtest (s.u.).&lt;/p&gt;
+
+&lt;p&gt;Am &lt;em&gt;Montag, 4.11.2019&lt;/em&gt;, findet um 11:00 Uhr eine &lt;strong&gt;Kickoff-Webkonferenz&lt;/strong&gt; zur deRSE20 statt. Hier kannst Du unverbindlich reinschnuppern, andere Interessierte kennenlernen und Fragen stellen.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;em&gt;&lt;strong&gt;deRSE20 Kickoff-Webkonferenz&lt;/strong&gt;&lt;/em&gt;&lt;br /&gt;
+&lt;strong&gt;Montag, 04.11.2019, 11:00 Uhr&lt;/strong&gt;&lt;br /&gt;
+&lt;a href=&quot;https://conf.dfn.de/webapp/conference/97957793&quot;&gt;https://conf.dfn.de/webapp/conference/97957793&lt;/a&gt;, oder&lt;br /&gt;
+&lt;a href=&quot;tel:+49-30-200-97957793&quot;&gt;+49-30-200-97957793&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;vorteile-für-mitglieder-des-organisationsteams&quot;&gt;Vorteile für Mitglieder des Organisationsteams&lt;/h2&gt;
+
+&lt;p&gt;Das Organisationsteam gestaltet die RSE-Community in Deutschland aktiv mit und leistet einen entscheidenden Beitrag zur Wirkungskraft dieser Community! Mitglieder lernen in ihrer Arbeit im Komitee neue Personen, Initiativen und Ideen aus dem Bereich Forschungssoftware kennen, sowie die Höhen und Tiefen der Konferenzorganisation. Es ist weiterhin geplant, dass Komiteemitglieder freien Eintritt zur Konferenz erhalten.&lt;/p&gt;
+
+&lt;h2 id=&quot;was-bedeutet-es-ein-mitglied-des-organisationsteams-zu-sein&quot;&gt;Was bedeutet es, ein Mitglied des Organisationsteams zu sein?&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Teammitglieder unterstützen die inhaltliche Ausrichtung von de-RSE e.V. und deRSE20-Konferenz.&lt;/li&gt;
+  &lt;li&gt;Sie sind sich im Klaren, dass die Organisation der Konferenz Zeit, Kraft und Nerven kostet. Je nach Team trifft das mehr oder weniger zu und kann zu unterschiedlichen Zeiten eintreffen.&lt;/li&gt;
+  &lt;li&gt;Sie sind gewillt und in der Lage, persönlich an der Konferenz teilzunehmen, wobei dafür finanzielle Unterstützung geplant ist.&lt;/li&gt;
+  &lt;li&gt;Sie sind in der Lage, die von ihnen übernommenen Aufgaben zu erledigen, oder gewillt, benötigte Fähigkeiten kurzfristig zu erlernen.&lt;/li&gt;
+  &lt;li&gt;Von Teammitgliedern wird erwartet, dass sie sich an den &lt;a href=&quot;https://www.de-rse.org/de/conf2019/code-of-conduct.html&quot;&gt;Code of Conduct (CoC) der deRSE19&lt;/a&gt; halten. Nach eventueller Ablösung dieses Code of Conduct halten sie sich an den jeweils gültigen CoC.&lt;/li&gt;
+  &lt;li&gt;Teammitglieder zeigen keine Voreingenommenheit gegenüber Einzelnen oder einer Teilgruppe des gesamten Konferenzkomitees, der Teilnehmerschaft der Konferenz, oder anderer Beteiligter (Veranstaltungsort, Sponsoren, etc.)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;konferenzteams&quot;&gt;Konferenzteams&lt;/h2&gt;
+
+&lt;p&gt;Wir suchen Mitglieder für folgende Teams:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Programm-Team:&lt;/strong&gt; Ein Chair + Komitee organisieren das Programm der Konferenz, planen Formate und Tracks, entwerfen einen Call for Submissions, organisieren den Einreichungs- und Begutachtungsprozess, führen letzteren mit durch, treffen und kommunizieren Entscheidungen mit einreichenden Personen, gestalten und kommunizieren den Programmablauf und organisieren Session Chairs für die einzelnen Veranstaltungsblöcke während der Konferenz (letzteres in Zusammenarbeit mit dem Volunteers-Team).
+    &lt;ul&gt;
+      &lt;li&gt;Je nach geplanten Formaten: &lt;strong&gt;Teams für jedes Format:&lt;/strong&gt; Ein Chair + Team führen die Aufgaben des Programmkomitees jeweils für ein Format durch, z.B. für Vorträge, Poster, Workshops und BoFs, etc. Diese Teams bilden zusammen mit dem Programm-Chair das Programmkomitee.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Logistik-Team (a.k.a. Local Team):&lt;/strong&gt; Ein Chair + Team  sind &lt;em&gt;vor Ort in Jena oder Umgebung&lt;/em&gt; ansässig und unterstützen den Logistik Chair bei der Organisation des Veranstaltungsortes. Dies umfasst v.a. zum einen die Organisation von Räumen, räumlichen und zeitlichen Abläufen, benötigter Technik und Ausstattung, zum anderen die Kommunikation und Organisation vor Ort mit Zulieferern (Catering, Transport, etc.) und die Bereitstellung der entsprechenden Informationen für die anderen Teams und die Teilnehmer.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Finanz-Team:&lt;/strong&gt; Ein oder zwei Chairs + Team planen, verwalten, überwachen und berichten die Finanzen der Konferenz, kümmern sich um eingehende und zu leistende Zahlungen, legen Rechnungen, etc.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Website-Team:&lt;/strong&gt; Ein Chair + Team kümmern sich um die Pflege der Websites. Dies umfasst zum einen die statische Konferenz-Website, zum anderen die Webtools für die Konferenzorganisation (Einreichungssystem, Ticketingsystem, Publikationssystem für Beiträge, etc.).&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Sponsorship-Team:&lt;/strong&gt; Ein Chair + Team kümmern sich um die Gewinnung von Sponsoren für die Konferenz, sprechen Sponsorship-Leistungen mit diesen ab, klären die Ausführung der Leistungen mit Logistik-Team, Financial-Team u.a. und sind Liaison - auch vor Ort während der Konferenz - zwischen Sponsoren und Konferenzkomitee insgesamt.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Volunteers-Team:&lt;/strong&gt; Ein Chair + Team kümmern sich um die Gewinnung und Organisation von freiwilligen Helfer_innen für die Konferenz und organisieren vor allem Abläufe und Einsatz dieser während der Konferenz. Das Team arbeitet eng mit dem Logistik-Team zusammen. Bestenfalls ist mindestens der Chair in &lt;em&gt;Jena oder Umgebung&lt;/em&gt; ansässig und kennt die Veranstaltungsorte gut oder lernt sie frühzeitig kennen.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Diversity-Team:&lt;/strong&gt; Ein Chair + Team kümmern sich um die Aspekte der Diversität der Konferenz, entwerfen entsprechende Policies und deren Umsetzung (z.B. Code of Conduct), schlagen Mechanismen zur Diversitätssteigerung der Konferenz vor, überwachen und kommunizieren Aspekte der Diversität über alle Teams hinweg, dokumentieren die Diversität der Konferenz und kommunizieren entsprechende Trends.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;International-Team:&lt;/strong&gt; Ein Chair + Team kümmern sich um die Anbindung der Konferenz an internationale Initiativen, erstellen und kommunizieren Konzepte der Einbindung internationaler Teilnehmender, klären Fördermöglichkeiten für internationale Teilnehmende, kommunizieren mit der internationalen Community und berichten von der Konferenz auf internationale Plattformen (Blogs, Konferenzen, etc.).&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Social-Team:&lt;/strong&gt; Ein Chair + Team organisiert das soziale Rahmenprogramm der Konferenz in allen Aspekten, also z.B. Pre-Conference Dinner/Meeting/Reception, Führungen, sportliche Aktivitäten (Laufgruppe), Networking-Aktivitäten (z.B. Sitzplan für das Konferenzdinner o.ä.).&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Social Media-Team:&lt;/strong&gt; Ein Chair + Team kümmern sich um die Pflege der Social Media Accounts (v.a. Twitter/Mastodon) der Konferenz. Das Team veröffentlicht News und Updates zur Konferenz - vor, während und nach der Veranstaltung - und trifft vor allem eine Auswahl, was während der Konferenz live veröffentlicht oder geteilt wird. Das Team gestaltet das öffentliche Gesicht der Konferenz in den sozialen Medien.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;chairs-und-teams&quot;&gt;Chairs und Teams&lt;/h3&gt;
+
+&lt;p&gt;Die anstehenden Aufgaben sollen auf viele Schultern verteilt werden. Dazu arbeiten wir in Teams, die sich auf bestimmte Themen fokussieren und von Chairs zusammengehalten werden. Die Teammitglieder organisieren sich dabei selbständig, teilen sich Aufgaben untereinander auf und gehen diese gemeinsam an. Damit die einzelnen Aktivitäten abgestimmt und zielgerichtet eine erfolgreiche Konferenz ermöglichen, übernehmen 1-2 Personen aus einem Team die Rolle eines Chairs. Chairs übernehmen die Kommunikation für ihr Team im Konferenzkommittee in regelmäßig stattfindenden Videokonferenzen, stimmen die Organisation des eigenen Teams mit den anderen Teams ab und kümmern sich um das Tracking von Prozessen innerhalb des Teams, um darüber zu berichten.&lt;/p&gt;</content><author><name>Stephan Druskat &amp; de-RSE e.V. Vorstand</name></author><category term="Jekyll" /><category term="update" /><summary type="html"></summary></entry><entry><title type="html">Frauen in de-RSE</title><link href="/de/blog/2019/10/22/frauen-in-derse/" rel="alternate" type="text/html" title="Frauen in de-RSE" /><published>2019-10-22T00:00:00-05:00</published><updated>2019-10-22T00:00:00-05:00</updated><id>/de/blog/2019/10/22/frauen-in-derse</id><content type="html" xml:base="/de/blog/2019/10/22/frauen-in-derse/">&lt;p&gt; &lt;/p&gt;
+
+&lt;h2 id=&quot;einleitung&quot;&gt;Einleitung&lt;/h2&gt;
+
+&lt;p&gt;Frauen sind bei den Research Software Engineers - wie auch in anderen
+Bereichen der Informatik - stark unterrepräsentiert. Im Rahmen der deRSE19
+organisierten daher Bernadette Fritzsch (AWI) und Dagmar Krefting (HTW) am
+04.06.2019 einen Workshop, um die Gründe dafür zu diskutieren und Wege
+aufzuzeigen, wie das geändert werden kann. Am Workshop nahmen 9 Frauen und 4
+Männer teil, aus verschiedenen Altersstufen und Karrierephasen.&lt;/p&gt;
+
+&lt;p&gt;Zur &lt;a href=&quot;https://www.de-rse.org/de/conf2019/talk/XAMSLD/open-bf.pdf&quot;&gt;Eröffnung&lt;/a&gt;
+präsentierte B. Fritzsch die Ergebnisse einer Umfrage in der RSE-Community. D.
+Krefting stellte in einem Impulsvortrag einige Thesen auf der Basis von [1,2]
+zum Thema Diversität zur Diskussion.&lt;/p&gt;
+
+&lt;p&gt;Bereits bei der Vorstellungsrunde wurden viele Aspekte angesprochen, die Frauen
+in ihrer Entscheidung beeinflussen können, im Bereich der Softwareentwicklung
+arbeiten zu wollen. Als förderlich wurden immer wieder Mentor*innen genannt,
+wohingegen prekäre Arbeitsbedingungen eher abschreckend wirken.&lt;/p&gt;
+
+&lt;h2 id=&quot;arbeitsphase&quot;&gt;Arbeitsphase&lt;/h2&gt;
+
+&lt;p&gt;Im Workshop wurden drei Fragen mit der &lt;a href=&quot;https://de.wikipedia.org/wiki/World-Caf%C3%A9&quot;&gt;Methode World Cafe&lt;/a&gt; diskutiert. Einige
+Ergebnisse, die ausführlicher im
+&lt;a href=&quot;https://www.de-rse.org/de/conf2019/talk/XAMSLD/deRSE19-WS-Frauen-report.pdf&quot;&gt;Workshopbericht&lt;/a&gt;
+nachzulesen sind, sollen hier kurz dargestellt werden.&lt;/p&gt;
+
+&lt;h3 id=&quot;mehr-frauen-in-die-forschungssoftwareentwicklung-welche-maßnahmen-fallen-euch-ein&quot;&gt;Mehr Frauen in die Forschungssoftwareentwicklung: Welche Maßnahmen fallen Euch ein?&lt;/h3&gt;
+
+&lt;p&gt;Studentinnen sollten frühzeitig angesprochen und in die Entwicklung von
+Forschungssoftware einbezogen werden z.B. über eine studentische
+Hilfskraftstelle. Wichtig erschien uns eine Entmystifizierung von
+Softwareentwicklung als etwas, was nur Nerds können. Programmieren ist auch
+“on-the-job” erlernbar. Vorbilder sind hier hilfreich.&lt;/p&gt;
+
+&lt;p&gt;Um Frauen für eine Stelle zu interessieren, sollten die Ausschreibungen nicht
+mit zu vielen Anforderungen überladen werden, selbst wenn diese nur als
+“erwünscht” ausgewiesen sind. Stärker als die Technik sollte die Motivation des
+Arbeitsthemas herausgestellt werden.&lt;/p&gt;
+
+&lt;p&gt;Für alle Mitarbeiter*innen sind eine langfristige Berufsperspektive und die
+Vereinbarkeit von Arbeit und Familie ein wichtiges Kriterium. Um Familienarbeit
+als gemeinsame Aufgabe der Partner darzustellen, sollten diesbezügliche Angebote
+aber Mitarbeiter*innnen unabhängig vom Geschlecht unterbreitet werden.&lt;/p&gt;
+
+&lt;h3 id=&quot;welche-faktoren-sind-entscheidend-dafür-dass-frauen-in-der-forschungssoftwareentwicklung-bleiben&quot;&gt;Welche Faktoren sind entscheidend dafür, dass Frauen in der Forschungssoftwareentwicklung bleiben?&lt;/h3&gt;
+
+&lt;p&gt;Wichtig ist die Anerkennung der Kompetenzen durch Kolleg*innen und
+Führungskräfte. Für einen guten sozialen Umgang miteinander kann ein Code of
+Conduct helfen.&lt;/p&gt;
+
+&lt;p&gt;Jobperspektiven wie Entfristung oder ein guter “Backup”-Plan erhöhen die
+Chancen, dass Frauen dabei bleiben.&lt;/p&gt;
+
+&lt;p&gt;Weibliche Führungskräfte als Vorbilder und Mentoring sind nicht nur beim
+Einstieg, sondern auch später - insbesondere bei der Änderung der Lebens- und
+Karrieresituation - wichtig.&lt;/p&gt;
+
+&lt;h3 id=&quot;mehr-diversität-chancen-und-herausforderungen&quot;&gt;Mehr Diversität: Chancen und Herausforderungen&lt;/h3&gt;
+
+&lt;p&gt;Mehr Diversität fördert mehr Selbstreflexion und kann gegen eingefahrene
+Denkmodelle helfen. Gruppen mit hoher Diversität werden meist von außen als
+einladender erfahren. Um dahin zu kommen, gibt es einige Herausforderungen zu
+meistern. Insbesondere einzelne Frauen in ansonsten reinen Männergruppen
+brauchen dabei Unterstützung und Stärkung, die in einem guten Netzwerk geleistet
+werden kann.&lt;/p&gt;
+
+&lt;h2 id=&quot;fazit&quot;&gt;Fazit&lt;/h2&gt;
+
+&lt;p&gt;Diversität kommt nicht “von alleine”, sondern muss durch aktive Maßnahmen auf
+verschiedenen Ebenen gefördert werden. Eine davon ist die Vernetzung von Frauen
+untereinander. Unter dem Dach des de-RSE e.V. gibt es jetzt eine Mailingliste 
+derse_women@listserv.dfn.de und
+einen Kanal derse-women unter RocketChat bei der GWDG (https://chat.gwdg.de) für Frauen. 
+Wer Interesse daran hat, melde sich bei Bernadette.Fritzsch@awi.de.&lt;/p&gt;
+
+&lt;h2 id=&quot;referenzen-und-anmerkungen&quot;&gt;Referenzen und Anmerkungen&lt;/h2&gt;
+
+&lt;p&gt;[1] z.B. Holtzblatt, Karen &amp;amp; Marsden, Nicola. (2018). Retaining Women in
+Technology Uncovering and Measuring Key Dimensions of Daily Work Experiences.
+&lt;a href=&quot;https://doi.org/10.1109/ICE.2018.8436351&quot;&gt;10.1109/ICE.2018.8436351&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;[2]
+&lt;a href=&quot;https://www.scientificamerican.com/report/how-diversity-empowers-science-and-innovation/&quot;&gt;https://www.scientificamerican.com/report/how-diversity-empowers-science-and-innovation/&lt;/a&gt;&lt;/p&gt;</content><author><name>Bernadette Fritzsch</name></author><category term="Jekyll" /><category term="update" /><summary type="html"> </summary></entry><entry><title type="html">Publikation und Zitation von Forschungssoftware - Teil 2 des deRSE19-Workshop-Rückblicks “Entwicklung von Policies und Richtlinien für Forschungssoftware”</title><link href="/de/blog/2019/07/26/derse19-ws-policies-2/" rel="alternate" type="text/html" title="Publikation und Zitation von Forschungssoftware - Teil 2 des deRSE19-Workshop-Rückblicks “Entwicklung von Policies und Richtlinien für Forschungssoftware”" /><published>2019-07-26T00:00:00-05:00</published><updated>2019-07-26T00:00:00-05:00</updated><id>/de/blog/2019/07/26/derse19-ws-policies-2</id><content type="html" xml:base="/de/blog/2019/07/26/derse19-ws-policies-2/">&lt;p&gt;Dieser Post fasst die Eindrücke und Ergebnisse des &lt;a href=&quot;/de/blog/2019/07/10/derse19-ws-policies-1/&quot;&gt;deRSE19-Workshops “Entwicklung von Policies und Richtlinien für Forschungssoftware”&lt;/a&gt; zum Thema &lt;strong&gt;Publikation und Zitation von Forschungssoftware&lt;/strong&gt; zusammen.&lt;/p&gt;
+
+&lt;p&gt;Es wurde der Bedarf nach klar definierten Workflows in Bezug auf die Publikation von Forschungssoftware deutlich. Wichtig sei hier eine Klarheit über die einzelnen Schritte im Publikationsprozess und damit verbundene Verantwortlichkeiten sowie Ansprechpartner*innen. Auch Review-Verfahren und Freigabeprozesse wurden als wichtige Faktoren angesprochen. Der Grad der Regulierung von Softwarepublikationen blieb als offene Frage im Raum. Sollte es Teil der generellen Publikationsordnung sein oder bedarf es einer eigenen Publikationsordnung für Forschungssoftware? Analog wurde diskutiert, ob der Umgang mit Forschungssoftware Teil des Daten-Managementplans sein sollte oder ob es eines eigenen Software-Managementplans bedürfe. In der Praxis findet man beide Ansätze. Einerseits erfordert beispielsweise das &lt;a href=&quot;http://ec.europa.eu/research/participants/docs/h2020-funding-guide/cross-cutting-issues/open-access-data-management/data-management_en.htm#A1-template&quot;&gt;HORIZON-2020-Daten-Managementplan-Template&lt;/a&gt; softwarebezogene Angaben. Andererseits hat das Software Sustainability Institute ein eigenes &lt;a href=&quot;https://www.software.ac.uk/software-management-plans&quot;&gt;Template für Software-Managementpläne&lt;/a&gt; veröffentlicht.&lt;/p&gt;
+
+&lt;p&gt;Im Zusammenhang mit Open Science wird oft die allgemeine Forderung vertreten, jede Forschungssoftware zu publizieren. Dies ist sicher in Hinblick auf Nachvollziehbarkeit von Ergebnissen zu begrüßen. Wenn man die Publikation von Software aber als Incentive für die Entwickler*innen zusätzlich zu herkömmlichen Publikationen etablieren will, dann stellt sich die Frage, welche Qualität Forschungssoftware haben muss, um publikationswürdig zu sein. Allgemeiner Konsens war jedoch, dass Forschungssoftware essentieller Bestandteil guter digitaler wissenschaftlicher Praxis ist (siehe auch &lt;a href=&quot;https://www.dfg.de/download/pdf/foerderung/rechtliche_rahmenbedingungen/gute_wissenschaftliche_praxis/kodex_gwp.pdf&quot;&gt;Kodex&lt;/a&gt; „Leitlinien zur Sicherung guter wissenschaftlicher Praxis“ der Deutschen Forschungsgemeinschaft (DFG)).&lt;/p&gt;
+
+&lt;p&gt;Versionierung wurde als integraler Aspekt des Publikationsprozesses diskutiert. Dabei wurde – neben einem kurzen Exkurs zu Standards und Charakteristika von persistenten Identifikationen (insbesondere &lt;a href=&quot;https://en.wikipedia.org/wiki/Digital_object_identifier&quot;&gt;DOI&lt;/a&gt;) – der Fokus auf die Abbildung der Hierarchie und Relation der Versionen zueinander gesetzt. In Verbindung damit wurden auch Ideen zur Frequenz der einzelnen Versionen ausgetauscht. Zu überlegen sei hierbei was die grundlegenden Kriterien für eine neue Version sind. Als offene Frage blieb wie Wertschätzung für Forschungssoftware im Wissenschaftssystem verankert werden kann.&lt;/p&gt;
+
+&lt;p&gt;Mit Blick auf Zitation wurde auf die Nutzung der &lt;a href=&quot;https://www.force11.org/software-citation-principles&quot;&gt;FORCE 11 Software Citation Principles&lt;/a&gt; hingewiesen. Konkreter Anpassungsbedarf konnte im Rahmen der dynamischen Diskussionsrunden nicht erörtert werden. Generell sollte aber beim Umgang mit Forschungssoftware die Anknüpfung zu Forschungsdaten und gegebenenfalls auch zu Textpublikationen berücksichtigt werden.&lt;/p&gt;</content><author><name>Kaja Scheliga, Tobias Schlauch, Bernadette Fritzsch, Jürgen Fuhrmann</name></author><category term="Jekyll" /><category term="update" /><summary type="html">Dieser Post fasst die Eindrücke und Ergebnisse des deRSE19-Workshops “Entwicklung von Policies und Richtlinien für Forschungssoftware” zum Thema Publikation und Zitation von Forschungssoftware zusammen.</summary></entry><entry><title type="html">deRSE19: Rückblick auf den Workshop “Entwicklung von Policies und Richtlinien für Forschungssoftware”</title><link href="/de/blog/2019/07/10/derse19-ws-policies-1/" rel="alternate" type="text/html" title="deRSE19: Rückblick auf den Workshop “Entwicklung von Policies und Richtlinien für Forschungssoftware”" /><published>2019-07-10T00:00:00-05:00</published><updated>2019-07-10T00:00:00-05:00</updated><id>/de/blog/2019/07/10/derse19-ws-policies-1</id><content type="html" xml:base="/de/blog/2019/07/10/derse19-ws-policies-1/">&lt;h2 id=&quot;wann--wo-&quot;&gt;Wann &amp;amp; Wo ?&lt;/h2&gt;
+&lt;p&gt;Der Workshop &lt;a href=&quot;https://www.de-rse.org/de/conf2019/talk/KZX8VD/&quot;&gt;“Entwicklung von Policies und Richtlinien für Forschungssoftware”&lt;/a&gt; startete am Freitag, den 06.06.2019 in der großen Kuppel des Gebäudes A31 (PIK).&lt;/p&gt;
+
+&lt;h2 id=&quot;wer-&quot;&gt;Wer ?&lt;/h2&gt;
+&lt;p&gt;Die Organisatoren kamen von zwei Initiativen, die sich mit der Entwicklung von Policies und Richtlinien für Forschungssoftware befassen.&lt;/p&gt;
+
+&lt;p&gt;Bernadette Fritzsch und Jürgen Fuhrmann sind Mitglied der &lt;a href=&quot;https://www.allianzinitiative.de/handlungsfelder/digitale-werkzeuge-software-und-dienste/&quot;&gt;&lt;strong&gt;AG “Digitale Werkzeuge - Software und Dienste”&lt;/strong&gt;&lt;/a&gt; der &lt;a href=&quot;https://www.allianzinitiative.de&quot;&gt;Schwerpunktinitiative “Digitale Information”&lt;/a&gt; der &lt;a href=&quot;https://de.wikipedia.org/wiki/Allianz_der_Wissenschaftsorganisationen&quot;&gt;Allianz der deutschen Wissenschaftsorganisationen&lt;/a&gt;. Diese AG war unter anderem verantwortlich für die &lt;a href=&quot;https://doi.org/10.5281/zenodo.1172970&quot;&gt;“Handreichung zum Umgang mit Forschungssoftware”&lt;/a&gt; (&lt;a href=&quot;https://doi.org/10.5281/zenodo.1172988&quot;&gt;englische Version&lt;/a&gt;) und arbeitet aktuell an konkretisierten Richtlinien für Entwickler*innen von Forschungssoftware.&lt;/p&gt;
+
+&lt;p&gt;Bernadette Fritzsch, Kaja Scheliga und Tobias Schlauch vertreten die &lt;a href=&quot;https://os.helmholtz.de/open-science-in-der-helmholtz-gemeinschaft/akteure-und-ihre-rollen/arbeitskreis-open-science/task-group-forschungssoftware/&quot;&gt;&lt;strong&gt;Task Group Forschungssoftware&lt;/strong&gt;&lt;/a&gt; des &lt;a href=&quot;https://os.helmholtz.de/open-science-in-der-helmholtz-gemeinschaft/akteure-und-ihre-rollen/arbeitskreis-open-science/&quot;&gt;Arbeitskreises Open Science der Helmholtz-Gemeinschaft&lt;/a&gt;, welche entsprechende Empfehlungen spezifisch für die Zentren der Helmholtz-Gemeinschaft entwickelt.&lt;/p&gt;
+
+&lt;p&gt;Der Workshop hatte insgesamt 16 &lt;strong&gt;Teilnehmer*innen&lt;/strong&gt; aus verschiedenen Organisationen.&lt;/p&gt;
+
+&lt;h2 id=&quot;was-wurde-diskutiert-&quot;&gt;Was wurde diskutiert ?&lt;/h2&gt;
+&lt;p&gt;Nach einer kurzen &lt;a href=&quot;https://doi.org/10.5281/zenodo.3264893&quot;&gt;Einführung&lt;/a&gt; stellten Tobias Schlauch für die Task Group Forschungssoftware (&lt;a href=&quot;https://doi.org/10.5281/zenodo.3264880&quot;&gt;Folien&lt;/a&gt;) und Jürgen Fuhrmann für die Allianz-AG (&lt;a href=&quot;https://doi.org/10.5281/zenodo.3264878&quot;&gt;Folien&lt;/a&gt;) den Stand der Arbeiten vor. Ziel des Workshops war, von den Teilnehmer*innen weiteren Input für die gerade in Entstehung befindlichen Dokumente der beiden Initiativen zu erhalten. Diskussionsbedarf von Seiten der Organisator*innen gab es in diesem Zusammenhang zu folgenden Themenschwerpunkten:&lt;/p&gt;
+
+&lt;p&gt;1) Wie kann Qualitätssicherung für Software im wissenschaftlichen Kontext erreicht werden?&lt;/p&gt;
+
+&lt;p&gt;2) Lizensierung von Forschungssoftware&lt;/p&gt;
+
+&lt;p&gt;3) Nachhaltigkeit&lt;/p&gt;
+
+&lt;p&gt;4) Personalentwicklung&lt;/p&gt;
+
+&lt;p&gt;5) Publikation und Zitation von Software&lt;/p&gt;
+
+&lt;p&gt;6) Anreize für nachhaltige Software-Entwicklung und Metriken&lt;/p&gt;
+
+&lt;p&gt;7) Arbeitsrechtliche Aspekte von Software-Entwicklung&lt;/p&gt;
+
+&lt;p&gt;Nach Abstimmung unter den Teilnehmer*innen wurden die drei Themen &lt;strong&gt;Qualitätssicherung&lt;/strong&gt;, &lt;strong&gt;Lizensierung&lt;/strong&gt; sowie &lt;strong&gt;Publikation &amp;amp; Zitation&lt;/strong&gt; für die weitere Bearbeitung ausgewählt.&lt;/p&gt;
+
+&lt;h2 id=&quot;wie-&quot;&gt;Wie ?&lt;/h2&gt;
+&lt;p&gt;Die ausgewählten Themen wurden nach der &lt;a href=&quot;https://de.wikipedia.org/wiki/World-Caf%C3%A9&quot;&gt;Methode World Cafe&lt;/a&gt; in drei Arbeitsgruppen und je zwei Diskussionsrunden bearbeitet. Die Ergebnisse der angeregten Diskussionen stellen wir in nachfolgenden Posts in diesem Blog vor:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;/de/blog/2019/07/26/derse19-ws-policies-2/&quot;&gt;Teil 2: Publikation und Zitation von Forschungssoftware&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://innovationskulturmanagen.files.wordpress.com/2016/02/fullsizerender.jpg?w=1024&quot; alt=&quot;World Cafe&quot; /&gt;
+(© www.tanjafoehr.com)&lt;/p&gt;</content><author><name>Jürgen Fuhrmann, Bernadette Fritzsch, Tobias Schlauch, Kaja Scheliga</name></author><category term="Jekyll" /><category term="update" /><summary type="html">Wann &amp;amp; Wo ? Der Workshop “Entwicklung von Policies und Richtlinien für Forschungssoftware” startete am Freitag, den 06.06.2019 in der großen Kuppel des Gebäudes A31 (PIK).</summary></entry><entry><title type="html">DrWatson. The scientific project assistant</title><link href="/de/blog/2019/05/29/drwatson/" rel="alternate" type="text/html" title="DrWatson. The scientific project assistant" /><published>2019-05-29T00:00:00-05:00</published><updated>2019-05-29T00:00:00-05:00</updated><id>/de/blog/2019/05/29/drwatson</id><content type="html" xml:base="/de/blog/2019/05/29/drwatson/">&lt;p&gt;&lt;img src=&quot;https://github.com/JuliaDynamics/JuliaDynamics/blob/master/videos/drwatson/DrWatson-banner.png?raw=true&quot; alt=&quot;&quot; width=&quot;800px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Hello everyone,&lt;/p&gt;
+
+&lt;p&gt;I’d like to present a new software that was recently released in open beta, called &lt;strong&gt;DrWatson&lt;/strong&gt;, &lt;em&gt;the perfect sidekick to your scientific inquiries&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;DrWatson is what I’ll call a “scientific project assistant”. It is software package created to help people “deal” with their simulations, simulation parameters, where are files saved, experimental data, scripts, existing simulations, project source code and in general their scientific projects. Although it is written in Julia, I believe its principles, practices and how it can assist you in managing a project can be applied to any other language.&lt;/p&gt;
+
+&lt;p&gt;You can find the full documentation here:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://juliadynamics.github.io/DrWatson.jl/dev/&quot;&gt;https://juliadynamics.github.io/DrWatson.jl/dev/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;In this blogpost I will summarize what this software can do for you and how can it help you by reducing the stress of managing a scientific project. Please be aware that DrWatson is &lt;strong&gt;not&lt;/strong&gt; a database management system.&lt;/p&gt;
+
+&lt;h2 id=&quot;functionality&quot;&gt;Functionality&lt;/h2&gt;
+&lt;p&gt;DrWarson is a scientific project assistant software package. Its core functionality is separated into 4, almost completely independent parts:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Project Setup&lt;/strong&gt; : A universal project structure and functions that allow you to consistently and robustly navigate through your project, no matter where it is located on your hard drive / cloud / server.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Naming Simulations&lt;/strong&gt; : A robust and deterministic scheme for naming and handling your containers.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Saving Tools&lt;/strong&gt; : Tools for safely saving and loading your data, tagging the Git commit ID to your saved files &lt;em&gt;automatically&lt;/em&gt;, safety when tagging with dirty repos, safety when overwriting results, and more.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Running &amp;amp; Listing Simulations&lt;/strong&gt;: Tools for producing tables of existing simulations/data, adding new simulation results to such tables, preparing batch parameter containers, and more.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;what-makes-drwatson-different&quot;&gt;What makes DrWatson different&lt;/h2&gt;
+&lt;p&gt;are the principles that we based our design decisions.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;strong&gt;Non-Invasive.&lt;/strong&gt; DrWatson does not require you to follow strict rules or change the way you work and do science in order to use it. In addition DrWatson is function-based: you only have to call a function and everything else just works; you &lt;em&gt;do not&lt;/em&gt; have to create additional special &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;struct&lt;/code&gt; or other data types.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Simple.&lt;/strong&gt; The functionality offered is a baseline from where you handle your project as you wish. This makes it more likely to be of general use but also means that you don’t have to “study” to learn DrWatson: all concepts are simple, everything is easy to understand.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Consistent.&lt;/strong&gt; The functionality is identical across all projects and DrWatson offers a universal base project structure.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Allows increments.&lt;/strong&gt; You didn’t plan your project well enough? Want to add more folders, more files, more variables to your simulations? It’s fine.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Reproducibility.&lt;/strong&gt; DrWatson aims to make your projects fully reproducible using Git, Julia’s package manager and consistent naming schemes.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Modular.&lt;/strong&gt; DrWatson has a flexible modular design which means you only have to use what fits &lt;em&gt;your project&lt;/em&gt;.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;examples&quot;&gt;Examples&lt;/h2&gt;
+&lt;p&gt;Let me now show two real life examples of using DrWatson.&lt;/p&gt;
+
+&lt;h3 id=&quot;1-getting-a-name-out-of-a-container&quot;&gt;1. Getting a name out of a container&lt;/h3&gt;
+&lt;p&gt;In simulations it is often the case that we used a named container (like a dictionary) as something to hold our parameters in. For example&lt;/p&gt;
+&lt;div class=&quot;language-julia highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;n&quot;&gt;c&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;x&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;T&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;100&lt;/span&gt;&lt;span class=&quot;x&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;dt&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;mf&quot;&gt;0.1&lt;/span&gt;&lt;span class=&quot;x&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;N&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;25&lt;/span&gt;&lt;span class=&quot;x&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;mode&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;“bi”&lt;/span&gt;&lt;span class=&quot;x&quot;&gt;)&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;then calling the function &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;savename&lt;/code&gt; that DrWatson offers results in&lt;/p&gt;
+&lt;div class=&quot;language-julia highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;n&quot;&gt;savename&lt;/span&gt;&lt;span class=&quot;x&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;c&lt;/span&gt;&lt;span class=&quot;x&quot;&gt;)&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&quot;N=25_T=100_dt=0.1_mode=bi&quot;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;while you can also add prefix/suffix&lt;/p&gt;
+&lt;div class=&quot;language-julia highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;n&quot;&gt;savename&lt;/span&gt;&lt;span class=&quot;x&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;datadir&lt;/span&gt;&lt;span class=&quot;x&quot;&gt;(),&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;c&lt;/span&gt;&lt;span class=&quot;x&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;“dat”&lt;/span&gt;&lt;span class=&quot;x&quot;&gt;)&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&quot;path/to/data/N=25_T=100_dt=0.1_mode=bi.dat&quot;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;What is important is that the function &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;savename&lt;/code&gt; works for any named container, which includes dictionaries, named tuples or any Julia composite structure (existing or to-be-created in the future).&lt;/p&gt;
+
+&lt;p&gt;In addition, it sensibly excludes non-fitting fields (e.g. vector-valued fields) but can be customized to full extent for your custom type.&lt;/p&gt;
+
+&lt;h3 id=&quot;2-producing-a-dataframe-from-saved-files&quot;&gt;2. Producing a dataframe from saved files&lt;/h3&gt;
+&lt;p&gt;Let’s say that you have run some simulations with parameters a = 1 or 2, b = “x” or “y” and c = 0.3. You save these simulations in the directory “data”. &lt;em&gt;for the purpose of this example you only save the parameter values but no other further data (like actual results)&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;You can then call the function&lt;/p&gt;
+&lt;div class=&quot;language-julia highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;n&quot;&gt;df1&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;collect_results&lt;/span&gt;&lt;span class=&quot;x&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;data/&quot;&lt;/span&gt;&lt;span class=&quot;x&quot;&gt;)&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;4×3 DataFrame
+│ Row │ a      │ b       │ c        │
+│     │ Int64⍰ │ String⍰ │ Float64⍰ │
+├─────┼────────┼─────────┼──────────┤
+│ 1   │ 1      │ x       │ 0.3      │
+│ 2   │ 1      │ y       │ 0.3      │
+│ 3   │ 2      │ x       │ 0.3      │
+│ 4   │ 2      │ y       │ 0.3      │
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;This is already quite convenient. But where &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;collect_results&lt;/code&gt; really shine is the following. You now run a new simulation with a=4, b=“z”, a new parameter d=0.5 or 0.6 and the parameter c does not exist anymore! You again save these simulations in “data”. Then you call &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;collect_results&lt;/code&gt; again:&lt;/p&gt;
+&lt;div class=&quot;language-julia highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;n&quot;&gt;df2&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;collect_results&lt;/span&gt;&lt;span class=&quot;x&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;data/&quot;&lt;/span&gt;&lt;span class=&quot;x&quot;&gt;)&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;6×4 DataFrame
+│ Row │ a      │ b       │ c        │ d        │
+│     │ Int64⍰ │ String⍰ │ Float64⍰ │ Float64⍰ │
+├─────┼────────┼─────────┼──────────┼──────────┤
+│ 1   │ 1      │ x       │ 0.3      │ missing  │
+│ 2   │ 1      │ y       │ 0.3      │ missing  │
+│ 3   │ 2      │ x       │ 0.3      │ missing  │
+│ 4   │ 2      │ y       │ 0.3      │ missing  │
+│ 5   │ 4      │ z       │ missing  │ 0.5      │
+│ 6   │ 4      │ z       │ missing  │ 0.6      │
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;As you can see the collection scheme has no problem with combining simulations with different parameters. This is especially useful for a scientific project, since it is almost impossible to know in advance all simulations you would have to run by the end of the project!&lt;/p&gt;
+
+&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;I hope that DrWatson can help you and I hope you will be interested to discuss during the deRSE2019 meeting! See you all there!
+If you are eager to contact us about DrWatson before deRSE2019, please use the GitHub repository:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/JuliaDynamics/DrWatson.jl&quot;&gt;https://github.com/JuliaDynamics/DrWatson.jl&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;best regards,
+George Datseris&lt;/p&gt;</content><author><name>George Datseris</name></author><category term="Jekyll" /><category term="update" /><summary type="html"></summary></entry></feed>
